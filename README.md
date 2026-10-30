@@ -16,6 +16,8 @@ The scores part of the data is only applicable to scheme type FHRS (not FHIS) an
 
 Where the establishment is in operation from a private address the address and geocoding data may not be available.
 
+The rating value is the result of an inspection for a business (between 0 and 5)
+
 ---------
 Where Awaiting Publication is displayed instead of a rating, this is where the business has appealed their rating, and the local authority is in the process of determining the appeal.
 
