@@ -5,6 +5,8 @@ its still inflated(1349) - check in excel (double-counting in loop caused total_
 Update README as required - IN PROGRESS
 Read about the data before moving forward - take note of what to do and what more to get DONE
 push data to postgre/superbase or any other database system. DONE
+-- join ratings table with score_descriptors table
+after that , do similar in python to create the seperste csvs that get saved in s3 or supabaese. the csv links will thn be used to create charts in powerbi and/or qgis
 
 
 Query from there using python in vscode
@@ -25,3 +27,6 @@ QUESTIONS
 - How to handle actual null ratings
 - Bussiness and bussinestypes awaiting inspection and Exempt
 - exclude Exempt and AwaitingInspection from other analysis
+- since some business names appears more than once because they ahve multiple locations, when the name apears in top or lowest, chcek if other branches have similar or opposite ratings
+  
+

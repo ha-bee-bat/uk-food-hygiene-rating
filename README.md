@@ -16,7 +16,18 @@ The scores part of the data is only applicable to scheme type FHRS (not FHIS) an
 
 Where the establishment is in operation from a private address the address and geocoding data may not be available.
 
-The rating value is the result of an inspection for a business (between 0 and 5)
+The rating value is the result of an inspection for a business (between 0 and 5). With 
+0 --> urgent improvement necessary
+1 --> major improvement neceesary
+2 --> improvement necessary
+3 --> generally satisfactory
+4 --> good
+5 --> very good
+
+
+note
+4. The food hygiene rating data is available via an API. This is a free service and there is no need to register before using it. However, it is your responsibility to ensure that you make clear whether the data you are using is either from the live data or static data that is updated daily. Read more about how to access the API [https://www.food.gov.uk/hygiene-rating-open-data]. AM I USING STATIC OR LIVE DATA
+
 
 ---------
 Where Awaiting Publication is displayed instead of a rating, this is where the business has appealed their rating, and the local authority is in the process of determining the appeal.
