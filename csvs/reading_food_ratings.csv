@@ -17,12 +17,13 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280914,A&S News & Off Licence,Retailers - other,130 GREAT KNOLLYS STREET,,READING,RG1 7HB,5,2025-01-28,Reading,0,0,5,-0.9841233,51.4579938
 280553,A2 Dominion,Hospitals/Childcare/Caring Premises,CHIMNEY COURT SHILLING CLOSE,,TILEHURST,RG30 4EN,5,2026-09-29,Reading,5,5,5,-1.0155018,51.4499348
 1698140,Abbeyfield Wey Valley Society Maitland House,Hospitals/Childcare/Caring Premises,ABBEYFIELD HOUSE 11 MAITLAND ROAD,,READING,RG1 6NL,5,2025-01-29,Reading,5,5,5,-0.9868781,51.451876
-280272,Abbeymore Day Nursery,Hospitals/Childcare/Caring Premises,ABBEYMORE DAY NURSERY AND PRESCHOOL 161 WOKINGHAM ROAD,,READING,RG6 1LP,5,2025-04-30,Reading,5,5,5,-0.9323818,51.4443696
+280272,Abbeymore Day Nursery,Hospitals/Childcare/Caring Premises,ABBEYMORE DAY NURSERY AND PRESCHOOL 161 WOKINGHAM ROAD,,READING,RG6 1LP,5,2026-04-30,Reading,0,5,0,-0.9323818,51.4443696
 1841349,Abikwa Bakes,Other catering premises,,,,,5,2026-05-20,Reading,5,5,5,,
 1976709,Acai Love,Mobile caterer,,,,,5,2026-07-23,Reading,0,0,0,,
 1948354,Accent Catering at Geoffrey Field Junior School,Other catering premises,GEOFFREY FIELD INFANT & JUNIOR SCHOOL SCHOOL EXBOURNE ROAD,,READING,,5,2025-10-22,Reading,0,5,5,,
 1688496,Ace Catering,Mobile caterer,87 SOUTHCOTE LANE,,READING,RG30 3AH,AwaitingInspection,,Reading,,,,-1.0019966,51.4436162
-1998904,Acorn Kitchen,Pub/bar/nightclub,THE ROYAL OAK PH 69 WESTWOOD GLEN,TILEHURST,READING,RG31 5NW,AwaitingInspection,,Reading,,,,-1.0488731,51.4610903
+1998904,Acorn Kitchen,Pub/bar/nightclub,THE ROYAL OAK PH 69 WESTWOOD GLEN,TILEHURST,READING,RG31 5NW,5,2026-10-14,Reading,0,5,5,-1.0488731,51.4610903
+2006769,ADDA,Distributors/Transporters,,,,,AwaitingInspection,,Reading,,,,,
 1211430,Admiral Casino,Retailers - other,93-98 FRIAR STREET,,READING,RG1 1EP,Exempt,,Reading,,,,-0.9757811,51.4564374
 1274767,Afghan Flavours,Restaurant/Cafe/Canteen,40 OXFORD ROAD,,READING,RG1 7LA,1,2026-07-17,Reading,15,15,20,-0.9773294,51.4554169
 1948326,Afghan Palace Reading,Restaurant/Cafe/Canteen,308 OXFORD ROAD,,READING,RG30 1AD,3,2026-01-13,Reading,10,5,10,-0.9947601,51.4566827
@@ -56,11 +57,12 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1959938,Amorino,Restaurant/Cafe/Canteen,37 BROAD STREET,,READING,RG1 2AA,5,2026-06-23,Reading,0,5,0,-0.9724555,51.4558328
 1439562,Amsterdam Selection,Retailers - other,17 WHITLEY STREET,,READING,RG2 0EG,Exempt,,Reading,,,,-0.9654689,51.4459251
 1576372,AMT Coffee at Royal Berkshire Hospital,Restaurant/Cafe/Canteen,ROYAL BERKSHIRE HOSPITAL LONDON ROAD,,READING,RG1 5AN,5,2024-11-28,Reading,5,0,0,-0.9593095,51.4510228
-1552887,Angel Bar,Pub/bar/nightclub,18 PROSPECT STREET,CAVERSHAM,READING,RG4 8JG,5,2024-11-22,Reading,0,5,5,-0.9728442,51.4680295
+1552887,Angel Bar,Pub/bar/nightclub,18 PROSPECT STREET,CAVERSHAM,READING,RG4 8JG,5,2026-10-23,Reading,0,5,5,-0.9728442,51.4680295
 1229332,Angel Hill at Thames Water,Restaurant/Cafe/Canteen,CLEARWATER COURT VASTERN ROAD,,READING,RG1 8DB,5,2025-04-24,Reading,5,5,0,-0.9688695,51.4604141
 1976764,Angelo's,Restaurant/Cafe/Canteen,9 FRIARS WALK,,READING,RG1 1HP,5,2026-08-18,Reading,5,5,0,-0.9744959,51.4575733
 1948443,ANJAPPAR Chettinad Indian Restaurant,Restaurant/Cafe/Canteen,GROUND FLOOR 74 KINGS ROAD,,READING,RG1 3BJ,0,2026-07-23,Reading,,,,-0.9654744,51.4545933
 1194591,Anna Hamilton Baking,Other catering premises,,,,,5,2025-01-28,Reading,0,5,0,,
+2010397,Anna's Cake Studio,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 1130010,Anonymous Coffee Co at Thames Tower,Takeaway/sandwich shop,THAMES TOWER 37-45 STATION ROAD,,READING,,5,2025-09-19,Reading,0,0,5,-0.9726929,51.4580829
 1948457,AntonioMaria,Mobile caterer,37 CHURCH ROAD,CAVERSHAM,READING,RG4 7AG,4,2026-04-09,Reading,5,5,10,-0.9789349,51.4679839
 1959923,Anu's Dessert Café,Restaurant/Cafe/Canteen,40 CHURCH STREET,CAVERSHAM,READING,RG4 8AU,AwaitingInspection,,Reading,,,,-0.9734296,51.467603
@@ -106,7 +108,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1948448,BaxterStorey - Deloitte,Restaurant/Cafe/Canteen,ABBOTS HOUSE ABBEY STREET,,READING,RG1 3BD,5,2026-03-26,Reading,0,0,5,-0.9661705,51.456272
 1627386,Baxterstorey @ JLL Green Park,Restaurant/Cafe/Canteen,400 BROOK DRIVE,,READING,RG2 6UU,5,2025-05-15,Reading,5,5,5,-0.9913629,51.422691
 1750458,BaxterStorey at Campus Kitchen,Restaurant/Cafe/Canteen,VERIZON READING INTERNATIONAL BUSINESS PARK,,READING,RG2 6DA,5,2026-06-12,Reading,5,0,5,,
-1948289,BaxterStorey at One Station Hill,Restaurant/Cafe/Canteen,One Station Hill,,Reading,RG1 1NR,5,2025-06-20,Reading,0,0,0,-0.9755372,51.45898
+1948289,BaxterStorey at One Station Hill,Restaurant/Cafe/Canteen,1 STATION HILL SQUARE,,READING,,5,2025-06-20,Reading,0,0,0,-0.9735346,51.458119
 280354,Bays Peri Peri,Restaurant/Cafe/Canteen,6 WEST STREET,,READING,,5,2026-08-05,Reading,0,5,0,-0.9755982,51.456247
 280321,BB's Bakers & Baristas,Restaurant/Cafe/Canteen,L1 THE LOWER MALL THE ORACLE BRIDGE STREET,,READING,RG1 2AQ,5,2026-02-05,Reading,5,5,5,-0.9712956,51.4536465
 572247,Be At One,Restaurant/Cafe/Canteen,BE AT ONE PH 1 GUN STREET,,READING,RG1 2JR,5,2026-07-14,Reading,5,0,0,-0.9734797,51.4538006
@@ -126,6 +128,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1948395,Betel Group,Manufacturers/packers,,,,,3,2025-11-05,Reading,10,5,10,,
 1587254,"Better Cafe, Palmer Park",Restaurant/Cafe/Canteen,PALMER PARK SPORTS STADIUM PALMER PARK WOKINGHAM ROAD,,READING,RG6 1LF,5,2024-12-08,Reading,5,5,5,-0.9370982,51.4519386
 772171,Betty's Bistro,Restaurant/Cafe/Canteen,487 OXFORD ROAD,,READING,RG30 1HF,1,2026-01-06,Reading,15,15,20,-0.999379,51.4574056
+2010409,Between Cultures,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 1698138,Big Bazaar,Retailers - supermarkets/hypermarkets,13-15 LONDON ROAD,,READING,RG1 5BJ,5,2026-04-07,Reading,5,5,5,-0.966455,51.4506814
 954025,Big Bazaar,Retailers - other,67-69 WOKINGHAM ROAD,,READING,RG6 1LH,5,2025-09-03,Reading,5,5,5,-0.9373404,51.4489465
 1948427,Big Bazaar,Retailers - supermarkets/hypermarkets,80 TEAN HOUSE HAVERGATE WAY,,READING,RG2 0GU,5,2026-03-03,Reading,5,5,5,-0.9753665,51.4305911
@@ -137,7 +140,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1948394,Bina's Bakery,Retailers - other,,,,,5,2026-04-25,Reading,5,5,5,,
 1439573,Biryani Boyzz,Restaurant/Cafe/Canteen,109 OXFORD ROAD,,READING,RG1 7UD,3,2026-07-28,Reading,10,10,10,-0.9800623,51.4548472
 1948461,Biryani Boyzz,Takeaway/sandwich shop,63 WOKINGHAM ROAD,,READING,RG6 1LH,4,2026-03-04,Reading,5,10,5,-0.9373965,51.44901
-1500784,Biryanish,Restaurant/Cafe/Canteen,92 OXFORD ROAD,,READING,RG1 7LJ,2,2026-06-30,Reading,,,,-0.9799116,51.4551516
+2010411,Biryanish,Restaurant/Cafe/Canteen,92 OXFORD ROAD,,READING,RG1 7LJ,AwaitingInspection,,Reading,,,,-0.9799116,51.4551516
 280483,BJ's Luxury Bingo Club,Pub/bar/nightclub,BJS LUXURY BINGO GILLETTE WAY,,READING,RG2 0BS,5,2026-01-20,Reading,5,5,5,,
 1762480,BKRY,Mobile caterer,47 CHURCH STREET,CAVERSHAM,READING,RG4 8BA,5,2026-03-20,Reading,5,5,5,-0.9741115,51.4674649
 1948301,Black Sheep Coffee,Restaurant/Cafe/Canteen,60 BROAD STREET,,READING,RG1 2AF,5,2026-07-10,Reading,5,5,5,-0.9743857,51.4557598
@@ -162,12 +165,12 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280209,Boots,Retailers - other,47-48 BROAD STREET,,READING,RG1 2AE,5,2025-08-12,Reading,0,0,0,-0.9731592,51.4559019
 280361,Boots,Retailers - other,BOOTS U25 THE UPPER MALL THE ORACLE BRIDGE STREET,,READING,RG1 2AH,5,2025-08-12,Reading,0,0,0,,
 455619,Boots UK Ltd at Reading Rail Station Concourse,Retailers - other,7 BRUNEL ARCADE STATION APPROACH,,READING,RG1 1LT,5,2025-03-19,Reading,,,,-0.9715063,51.4583692
-280805,Boswells Cafe at Broad St Mall,Restaurant/Cafe/Canteen,42-43 BROAD STREET MALL BROAD STREET,,READING,RG1 7QE,5,2024-10-17,Reading,5,5,5,-0.975875,51.4548107
+280805,Boswells Cafe at Broad St Mall,Restaurant/Cafe/Canteen,42-43 BROAD STREET MALL BROAD STREET,,READING,RG1 7QE,4,2026-09-22,Reading,5,5,10,-0.975875,51.4548107
 280114,Bow Guest House,Hotel/bed & breakfast/guest house,25 RUSSELL STREET,,READING,RG1 7XD,5,2025-01-25,Reading,0,5,0,-0.982385,51.4539502
 1948352,Bowl Central,Restaurant/Cafe/Canteen,65 CAVERSHAM ROAD,,READING,RG1 8AD,5,2026-01-08,Reading,0,5,5,-0.9762691,51.4603622
 1863454,BP Leander Service Station,Retailers - other,182-184 Henley Road Reading RG4 5DL,,Reading,RG4 5DL,5,2025-07-23,Reading,5,5,5,-0.9533924,51.4712832
 748894,BP Reading Service Station,Retailers - other,69 LONDON ROAD,,READING,,5,2024-10-26,Reading,5,5,5,,
-280407,BP Weldale Connect,Retailers - other,324 WOKINGHAM ROAD,,READING,RG6 1JU,AwaitingInspection,,Reading,,,,-0.9316409,51.4422048
+280407,BP Weldale Connect,Retailers - other,324 WOKINGHAM ROAD,,READING,RG6 1JU,5,2026-10-19,Reading,0,5,0,-0.9316409,51.4422048
 1750484,Bread & Olive,Other catering premises,,,,,5,2024-11-07,Reading,0,0,0,,
 1524298,Breakfast and After School Club,School/college/university,SOUTHCOTE PRIMARY SCHOOL SILCHESTER ROAD,,READING,RG30 3EJ,4,2026-02-12,Reading,5,5,10,,
 1750444,Brownies and Berries,Other catering premises,,,,,5,2024-10-18,Reading,0,0,5,,
@@ -189,7 +192,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1948459,Cafe Local,Restaurant/Cafe/Canteen,ROYAL BERKSHIRE HOSPITAL LONDON ROAD,,READING,RG1 5AN,5,2026-03-07,Reading,5,5,5,-0.9593095,51.4510228
 280928,Cafe Local at Platform 7 Reading Rail Station,Takeaway/sandwich shop,READING RAILWAY STATION STATION APPROACH,,READING,,5,2025-08-27,Reading,5,5,0,,
 748896,Cafe Ritazza at Platform 10/11 Reading Rail Station,Restaurant/Cafe/Canteen,READING RAILWAY STATION STATION APPROACH,,READING,,5,2025-10-28,Reading,5,5,0,,
-535205,Cafe Yolk,Restaurant/Cafe/Canteen,44 ERLEIGH ROAD,,READING,RG1 5NA,4,2025-01-24,Reading,5,5,10,-0.9500928,51.449439
+535205,Cafe Yolk,Restaurant/Cafe/Canteen,44 ERLEIGH ROAD,,READING,RG1 5NA,4,2026-07-16,Reading,5,10,5,-0.9500928,51.449439
 1948368,Cafe Yolk,Restaurant/Cafe/Canteen,UNIT 1 14 WOKINGHAM ROAD,,READING,RG6 1JG,5,2026-03-04,Reading,5,0,5,-0.9480305,51.4526772
 1948322,Caffe Nero,Restaurant/Cafe/Canteen,4-5 BROAD STREET,,READING,RG1 2BH,5,2025-09-04,Reading,0,5,0,-0.9703064,51.4554002
 280969,Caffe Nero,Restaurant/Cafe/Canteen,75 BROAD STREET,,READING,RG1 2AP,4,2025-11-05,Reading,5,10,5,-0.9749438,51.4552611
@@ -214,7 +217,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 434481,Caterlink at Alfred Sutton Primary School,School/college/university,148 WOKINGHAM ROAD,,READING,RG6 1JP,5,2025-05-16,Reading,0,5,5,-0.9375232,51.4485076
 280847,Caterlink at Caversham Childrens Centre,Hospitals/Childcare/Caring Premises,114 AMERSHAM ROAD,CAVERSHAM,READING,,5,2026-09-21,Reading,5,0,0,-0.9510285,51.4663793
 1651698,Caterlink at Caversham Park Primary,School/college/university,CAVERSHAM PARK PRIMARY SCHOOL QUEENSWAY,CAVERSHAM,READING,RG4 6RP,5,2025-06-04,Reading,0,5,5,,
-280489,Caterlink at Caversham Primary School,School/college/university,CAVERSHAM PRIMARY SCHOOL HEMDEAN ROAD,CAVERSHAM,READING,RG4 7RA,5,2024-11-21,Reading,,,,,
+280489,Caterlink at Caversham Primary School,School/college/university,CAVERSHAM PRIMARY SCHOOL HEMDEAN ROAD,CAVERSHAM,READING,RG4 7RA,5,2026-10-22,Reading,5,5,5,,
 280399,Caterlink at Christ The King RC Primary School,School/college/university,CHRIST THE KING CATHOLIC PRIMARY SCHOOL LULWORTH ROAD,,READING,RG2 8LX,5,2026-05-14,Reading,5,5,5,,
 280415,Caterlink at Coley Primary School,School/college/university,COLEY PRIMARY SCHOOL WOLSELEY STREET,,READING,RG1 6AZ,5,2026-06-08,Reading,5,5,5,,
 280486,Caterlink at Emmer Green Primary School,School/college/university,EMMER GREEN PRIMARY SCHOOL GROVE ROAD,EMMER GREEN,READING,RG4 8LN,5,2025-01-30,Reading,0,5,0,-0.9691041,51.4832382
@@ -226,7 +229,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280459,Caterlink at Kennet Day Nursery at Reading Borough Council,Hospitals/Childcare/Caring Premises,READING BOROUGH COUNCIL BOWMAN HOUSE 2-10 BRIDGE STREET,,READING,RG1 2LU,5,2026-03-18,Reading,0,5,5,-0.9735996,51.4535858
 280433,Caterlink at Manor Primary School,School/college/university,MANOR PRIMARY SCHOOL 110 ASHAMPSTEAD ROAD,,READING,RG30 3LJ,5,2025-04-09,Reading,5,5,0,-1.0159849,51.4415135
 280380,Caterlink at Moorlands Primary School,School/college/university,MOORLANDS PRIMARY SCHOOL CHURCH END LANE,TILEHURST,READING,RG30 4UN,5,2026-09-07,Reading,0,0,0,,
-280517,Caterlink at New Christ Church Primary School,School/college/university,NEW CHRIST CHURCH CE PRIMARY SCHOOL MILMAN ROAD,,READING,RG2 0AY,5,2024-07-10,Reading,0,5,0,,
+280517,Caterlink at New Christ Church Primary School,School/college/university,NEW CHRIST CHURCH CE PRIMARY SCHOOL MILMAN ROAD,,READING,RG2 0AY,5,2026-10-13,Reading,0,0,0,,
 280552,Caterlink at New Town Primary School,School/college/university,NEW TOWN PRIMARY SCHOOL SCHOOL TERRACE,,READING,RG1 3LS,5,2026-07-15,Reading,0,5,0,,
 1532556,Caterlink at Oxford Road Primary,School/college/university,OXFORD ROAD PRIMARY SCHOOL 146 OXFORD ROAD,,READING,RG1 7PJ,5,2025-09-08,Reading,0,0,0,-0.9868648,51.4557335
 280551,Caterlink at Park Lane Infants School,School/college/university,PARK LANE PRIMARY SCHOOL INFANTS DEPARTMENT 55 SCHOOL ROAD,TILEHURST,READING,RG31 5AS,5,2026-09-16,Reading,5,5,5,,
@@ -243,7 +246,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280578,Caterlink at The Ridgeway Primary School,School/college/university,THE RIDGEWAY SCHOOL HILLBROW,,READING,RG2 8JD,5,2025-10-02,Reading,5,5,0,-0.9512807,51.4277432
 1577454,Caterlink at UTC Reading,School/college/university,UTC READING CRESCENT ROAD,,READING,RG1 5RQ,5,2024-09-12,Reading,0,0,0,,
 280267,Caterlink at Whitley Park Primary and Nursery School,School/college/university,WHITLEY PARK PRIMARY & NURSERY SCHOOL BRIXHAM ROAD,,READING,RG2 7RB,5,2025-06-11,Reading,0,0,0,,
-280580,Caterlink at Wilson Primary School,School/college/university,WILSON PRIMARY SCHOOL WILSON ROAD,,READING,RG30 2RW,5,2025-09-08,Reading,5,5,5,,
+280580,Caterlink at Wilson Primary School,School/college/university,WILSON PRIMARY SCHOOL WILSON ROAD,,READING,RG30 2RW,4,2026-09-15,Reading,5,5,10,,
 1948489,Cats Protection - Tilehurst Charity Shop,Retailers - other,11 THE TRIANGLE,TILEHURST,READING,RG30 4RN,Exempt,,Reading,,,,-1.040448,51.4578656
 1714714,Caversham Baptist Church,Other catering premises,CAVERSHAM BAPTIST FREE CHURCH SOUTH STREET,CAVERSHAM,READING,RG4 8HY,5,2025-03-21,Reading,0,5,5,,
 434472,Caversham Bowling Club,Pub/bar/nightclub,CAVERSHAM BOWLING CLUB ALBERT ROAD,CAVERSHAM,READING,RG4 7AN,5,2026-08-03,Reading,5,0,0,-0.9872508,51.4766883
@@ -258,31 +261,30 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1976761,Caversham Tandoori,Takeaway/sandwich shop,15 PROSPECT STREET,CAVERSHAM,READING,RG4 8JB,AwaitingInspection,,Reading,,,,-0.9719907,51.4682109
 434455,Caversham Working Mens Club,Pub/bar/nightclub,36 CHURCH STREET,CAVERSHAM,READING,RG4 8AU,5,2025-01-25,Reading,5,5,5,-0.973783,51.4678939
 1513496,Caviar Fresh Fish,Retailers - other,51 WHITLEY STREET,,READING,,4,2026-04-15,Reading,5,10,5,,
-1766414,Cedar Court Cafe,Restaurant/Cafe/Canteen,CEDAR COURT 30 WHITLEY RISE READING,,READING,RG2 0NS,5,2025-03-07,Reading,0,5,5,-0.9645521,51.4406658
 1990129,Celeste Bar,Pub/bar/nightclub,5 KINGS WALK KING STREET,,READING,RG1 2HG,5,2026-09-04,Reading,5,5,5,-0.9696504,51.4545779
 1979469,Cellar and Glass,Retailers - other,27 ROSE KILN LANE,,READING,RG2 0JZ,Exempt,,Reading,,,,-0.9759891,51.4419893
 1409422,Chaaye Paani,Other catering premises,4 CHOLSEY HOUSE MOULSFORD MEWS,,READING,RG30 1AP,5,2025-05-21,Reading,5,5,5,-0.9987257,51.4576608
 1340616,Chaiiwala Reading,Restaurant/Cafe/Canteen,CHAIIWALA READING 140 WOKINGHAM ROAD,,READING,RG6 1JL,2,2026-01-19,Reading,10,15,10,-0.9382836,51.4492248
-280772,Chandni Kiosk,Retailers - other,161 FRIAR STREET,,READING,RG1 1HE,4,2025-03-21,Reading,5,10,5,-0.9709311,51.4564218
+280772,Chandni Kiosk,Retailers - other,161 FRIAR STREET,,READING,RG1 1HE,3,2025-03-21,Reading,5,10,10,-0.9709311,51.4564218
 280731,Charles Clore Court at A2dominion,Hospitals/Childcare/Caring Premises,39 APPLEFORD ROAD,,READING,RG30 3NT,5,2025-06-26,Reading,5,0,5,-1.0226885,51.4436017
 280462,Chartwells at Battle Primary School,School/college/university,BATTLE PRIMARY SCHOOL CRANBURY ROAD,,READING,RG30 2TD,5,2025-09-16,Reading,5,5,0,,
 1543341,Chartwells at Kings Academy Prospect,School/college/university,KINGS ACADEMY PROSPECT COCKNEY HILL,TILEHURST,READING,RG30 4EX,5,2026-09-09,Reading,5,5,0,-1.0194506,51.4469826
 280527,Chartwells at Reading Girls School,School/college/university,READING GIRLS SCHOOL NORTHUMBERLAND AVENUE,,READING,RG2 7PY,5,2025-09-18,Reading,0,5,0,,
 1701781,Chef Stevie's Caribbean Kitchen,Mobile caterer,15 HIGHBRIDGE CLOSE,CAVERSHAM,READING,RG4 6PH,5,2026-03-03,Reading,0,5,0,-0.9490166,51.4781319
+2010407,Cherry Tree House,Hospitals/Childcare/Caring Premises,134 NORTHUMBERLAND AVENUE,,READING,RG2 7PU,AwaitingInspection,,Reading,,,,-0.9628629,51.4371171
 1948482,Chick Bunz,Restaurant/Cafe/Canteen,41 WOKINGHAM ROAD,,READING,RG6 1LG,3,2026-03-12,Reading,10,5,10,-0.938018,51.4495102
 1648340,Chicken Base,Takeaway/sandwich shop,144 WOKINGHAM ROAD,,READING,RG6 1JL,1,2026-03-18,Reading,15,15,20,-0.9382276,51.4491614
 1562511,Chilis Indian Restaurant,Restaurant/Cafe/Canteen,2 KINGS WALK KING STREET,,READING,RG1 2HG,5,2024-12-01,Reading,5,5,5,-0.9696504,51.4545779
 1981807,Chilis On The Rocks (Bar & Restaurant),Restaurant/Cafe/Canteen,THE CORN STORES PH 10 FORBURY ROAD,,READING,RG1 1SB,AwaitingInspection,,Reading,,,,,
 1776116,Chilis South Indian Restaurant,Restaurant/Cafe/Canteen,8A KINGS WALK KING STREET,,READING,RG1 2HG,5,2025-05-12,Reading,5,5,5,-0.9696329,51.45463
 1948456,Chill Cup,Restaurant/Cafe/Canteen,UNIT 7A THE VILLAGE 17-23 KING STREET,,READING,RG1 2HG,3,2026-03-18,Reading,10,10,10,,
-1948429,Chillim,Restaurant/Cafe/Canteen,56 St Mary's Butts Reading RG1 2LG,,Reading,,1,2026-03-05,Reading,15,15,20,-0.97429,51.454666
 929946,Chillim,Restaurant/Cafe/Canteen,598-600 OXFORD ROAD,,READING,RG30 1EG,3,2025-08-19,Reading,10,10,10,-1.0046252,51.4590688
 280398,Chilmington House,Hospitals/Childcare/Caring Premises,CHILMINGTON HOUSE ARMADALE COURT,,READING,RG30 2ES,5,2025-10-22,Reading,5,0,5,-0.9986178,51.4494232
 1990114,Chinwe Ijeoma Omekara,Other catering premises,9 LAMERTON ROAD,,READING,RG2 8AS,Exempt,,Reading,,,,-0.9644709,51.4264308
 1568283,Chocist,Other catering premises,,,,,5,2025-09-16,Reading,0,0,0,,
 280726,Choice Carrisbrooke,Hospitals/Childcare/Caring Premises,341 PEPPARD ROAD,EMMER GREEN,READING,RG4 8XG,5,2025-06-13,Reading,5,5,5,-0.9623571,51.4886368
-280431,Choice Parkview,Hospitals/Childcare/Caring Premises,1 ARMOUR ROAD,TILEHURST,READING,RG31 6EX,4,2025-08-01,Reading,5,5,10,-1.0367529,51.4610994
-280584,Choice Peppard House,Hospitals/Childcare/Caring Premises,45 WOODCOTE ROAD,CAVERSHAM,READING,RG4 7BB,5,2025-06-23,Reading,5,5,5,-0.9889524,51.4739695
+280431,Choice Parkview,Hospitals/Childcare/Caring Premises,CHOICE PARKVIEW 1 ARMOUR ROAD,TILEHURST,READING,RG31 6EX,4,2025-08-01,Reading,5,5,10,-1.0367529,51.4610994
+280584,Choice Peppard House,Hospitals/Childcare/Caring Premises,CHOICE PEPPARD HOUSE 45 WOODCOTE ROAD,CAVERSHAM,READING,RG4 7BB,5,2025-06-23,Reading,5,5,5,-0.9889524,51.4739695
 1354042,"Choice, Hazeldene",Hospitals/Childcare/Caring Premises,129 WANTAGE ROAD,,READING,RG30 2SL,4,2025-11-21,Reading,0,0,10,-1.0042401,51.4536074
 1229340,Chop Suey House,Takeaway/sandwich shop,679 OXFORD ROAD,,READING,RG30 1HP,3,2026-05-08,Reading,10,10,10,-1.0082087,51.4597646
 1059563,Chopstix Noodle Bar,Restaurant/Cafe/Canteen,80 BROAD STREET,,READING,RG1 2AP,5,2025-07-31,Reading,5,5,0,-0.9747979,51.4553497
@@ -292,13 +294,12 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1753659,Churchend Primary Academy,Restaurant/Cafe/Canteen,CHURCHEND PRIMARY ACADEMY USK ROAD,TILEHURST,READING,RG30 4HP,5,2026-05-05,Reading,5,5,0,,
 280564,Churchend Primary Academy - Compass Group,School/college/university,CHURCHEND PRIMARY ACADEMY USK ROAD,TILEHURST,READING,RG30 4HP,5,2026-05-05,Reading,5,5,0,,
 280439,Churches In Reading Drop In Centre,Restaurant/Cafe/Canteen,DROP-IN CENTRE BERKELEY AVENUE,,READING,RG1 6JT,3,2025-12-16,Reading,10,5,10,,
-1698144,CI Lewis,Importers/Exporters,FLAT 7 10 FLAGSTAFF ROAD,,READING,RG2 6AX,Exempt,,Reading,,,,-0.9966194,51.4256675
 447267,Circle Reading,Hospitals/Childcare/Caring Premises,CIRCLE HOSPITAL 100 DRAKE WAY,,READING,RG2 0NE,5,2026-09-25,Reading,0,5,5,,
 1587257,Clay's,Restaurant/Cafe/Canteen,THE BARON CADOGAN 22-24 PROSPECT STREET,CAVERSHAM,READING,,5,2025-06-26,Reading,0,5,5,-0.9726108,51.4681624
 1948511,Cloud Nine Candy Floss Art,Mobile caterer,2 JAMES STREET,,READING,RG1 7NR,5,2026-08-18,Reading,0,0,0,-0.9852901,51.4559986
 1998927,Clucking Crispy,Pub/bar/nightclub,THE SPORTSMAN PH 201 SHINFIELD ROAD,,READING,RG2 7DS,AwaitingInspection,,Reading,,,,-0.9457454,51.4289958
 1827399,Cmart Oriental Store,Retailers - other,1 ST MARYS BUTTS,,READING,RG1 2LN,4,2025-01-31,Reading,0,10,10,-0.9753815,51.4549952
-698535,Coconut Bar & Kitchen,Restaurant/Cafe/Canteen,62 ST MARYS BUTTS,,READING,RG1 2LG,3,2025-11-16,Reading,10,10,10,-0.9745461,51.4550238
+698535,Coconut Bar & Kitchen,Restaurant/Cafe/Canteen,62 ST MARYS BUTTS,,READING,RG1 2LG,4,2026-09-15,Reading,5,10,5,-0.9745461,51.4550238
 1948337,Coconut Sweets,Takeaway/sandwich shop,,,,,5,2025-10-10,Reading,0,0,5,,
 1470843,Coffee & Cream / Cake Stop,Other catering premises,152 PARK LANE,TILEHURST,READING,RG31 4DU,4,2025-06-04,Reading,5,5,10,-1.0470416,51.4508876
 1948317,Cogni Nootropia,Retailers - other,,,,,5,2026-02-20,Reading,5,0,0,,
@@ -365,23 +366,25 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1500786,Demir Food,Other catering premises,,,,,5,2025-07-24,Reading,0,0,0,,
 1701783,DeNata,Restaurant/Cafe/Canteen,377 OXFORD ROAD,,READING,RG30 1HA,3,2026-03-19,Reading,10,10,10,-0.9949115,51.4564225
 1827381,Depeaches Events,Mobile caterer,,,,,5,2026-02-17,Reading,0,5,0,,
-1998923,Desi Adda,Restaurant/Cafe/Canteen,6 KINGS WALK KING STREET,,READING,RG1 2HG,AwaitingInspection,,Reading,,,,-0.9696329,51.45463
+1998923,Desi Adda,Restaurant/Cafe/Canteen,6 KINGS WALK KING STREET,,READING,RG1 2HG,2,2026-09-29,Reading,15,10,10,-0.9696329,51.45463
 1513487,Desire's Kitchen,Other catering premises,,,,,5,2025-02-25,Reading,0,0,0,,
 1744993,Dessi Bites,Restaurant/Cafe/Canteen,227 LONDON ROAD,,READING,RG1 3NY,AwaitingInspection,,Reading,,,,-0.9478144,51.453402
+1380867,DevilK / Dope / ChiTaco / Doner / SBowl / HailC / Mack J / YVeg,Takeaway/sandwich shop,166 OXFORD ROAD,,READING,RG1 7PJ,5,2026-01-14,Reading,0,5,0,-0.9884472,51.4557742
 1528290,Dhaulagiri Kitchen Cafe and Restaurant,Restaurant/Cafe/Canteen,63 BASINGSTOKE ROAD,,READING,RG2 0ER,2,2026-02-17,Reading,5,15,5,-0.9668595,51.439787
 280460,Dickory Docks Educational Day Nursery,Hospitals/Childcare/Caring Premises,KINGS ACADEMY PROSPECT COCKNEY HILL,TILEHURST,READING,RG30 4EX,AwaitingInspection,,Reading,,,,-1.0194506,51.4469826
-1613336,Dilraj,Takeaway/sandwich shop,23 SCHOOL ROAD,TILEHURST,READING,RG31 5AR,4,2025-07-23,Reading,5,10,5,-1.03681,51.4604344
+1613336,Dilraj,Takeaway/sandwich shop,23 SCHOOL ROAD,TILEHURST,READING,RG31 5AR,4,2026-09-28,Reading,5,10,5,-1.03681,51.4604344
 1990127,Dingley's Promise,Hospitals/Childcare/Caring Premises,COMMUNITY CENTRE KENNET WALK,,READING,RG1 3GD,AwaitingInspection,,Reading,,,,,
 1389128,Dingtea,Other catering premises,19-23 KINGS WALK KING STREET,,READING,RG1 2HG,4,2025-12-04,Reading,5,10,5,-0.9696329,51.45463
 1998935,Dinma's Kitchen,Manufacturers/packers,,,,,AwaitingInspection,,Reading,,,,,
 1730307,Dinner Parties t/a My'lkd,Other catering premises,,,,,5,2026-10-07,Reading,0,0,5,,
-1990130,Dolphin Brewery,Retailers - other,,,,,AwaitingInspection,,Reading,,,,,
+1990130,Dolphin Brewery Limited - 15 ELDON STREET,Retailers - other,,,,,AwaitingInspection,,Reading,,,,,
 1948283,Dolphin's Caribbean Restaurant And Bar,Restaurant/Cafe/Canteen,59-60 ST MARYS BUTTS,,READING,,5,2025-05-13,Reading,5,5,5,-0.9745797,51.4548083
-280289,Domino's Pizza,Takeaway/sandwich shop,427 OXFORD ROAD,,READING,RG30 1HA,5,2024-06-29,Reading,0,5,0,-0.9968296,51.4568263
+280289,Domino's Pizza,Takeaway/sandwich shop,427 OXFORD ROAD,,READING,RG30 1HA,5,2026-06-01,Reading,0,5,0,-0.9968296,51.4568263
 280854,Domino's Pizza,Takeaway/sandwich shop,76A SCHOOL ROAD,TILEHURST,READING,RG31 5AW,5,2026-08-06,Reading,5,5,5,-1.0405113,51.4585088
 280224,Domino's Pizza,Takeaway/sandwich shop,95 WOKINGHAM ROAD,,READING,RG6 1LH,5,2025-09-02,Reading,0,0,0,-0.936703,51.4485092
 1006677,Domino's Pizza,Takeaway/sandwich shop,DOMINO'S PIZZA 64 Christchurch Road,,Reading,RG2 7AZ,5,2025-11-13,Reading,0,0,0,-0.9558284,51.4427734
 683619,Domino's Pizza at Milestone Way Precinct,Takeaway/sandwich shop,8 MILESTONE WAY PRECINCT MILESTONE WAY,CAVERSHAM,READING,RG4 8XW,5,2025-11-09,Reading,0,0,0,-0.9622964,51.4830611
+2001129,Donkin Hill Local,Retailers - other,53 DONKIN HILL,CAVERSHAM,READING,RG4 5DG,4,2026-09-14,Reading,5,5,10,-0.9600089,51.4702901
 1948458,Donnington Deli,Restaurant/Cafe/Canteen,37 ERLEIGH ROAD,,READING,,4,2026-03-26,Reading,5,10,5,,
 1038593,Doreensdelight,Other catering premises,,,,,5,2024-12-19,Reading,0,0,5,,
 1109757,Double Barrelled Brewery,Manufacturers/packers,Unit 20 Stadium Way Tilehurst,,Reading,RG30 6BX,5,2025-02-11,Reading,0,5,0,-1.010264,51.4632349
@@ -406,7 +409,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280643,Elles Baguettes,Takeaway/sandwich shop,200 OXFORD ROAD,,READING,RG30 1AB,3,2026-09-04,Reading,10,10,10,-0.9907299,51.4560366
 280765,Elles Baguettes at Selco,Restaurant/Cafe/Canteen,SELCO TRADE WAREHOUSE PORTMAN ROAD,,READING,RG30 1EA,5,2026-04-18,Reading,5,5,5,-1.0003688,51.4615144
 1990131,Elmhurst Hotel,Hotel/bed & breakfast/guest house,51 Church Road Earley,,Reading Berkshire,RG6 1EY,AwaitingInspection,,Reading,,,,-0.9295051,51.4443164
-1948324,Elnette Parsons,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
+1948324,Elnette Parsons,Other catering premises,,,,,5,2025-07-25,Reading,0,0,5,,
 1948411,Emmanuel Pantry,Other catering premises,EMMANUEL METHODIST CHURCH 448 OXFORD ROAD,,READING,RG30 1EE,4,2026-02-18,Reading,5,5,10,-0.9996509,51.4581363
 1321108,Emmas Cake House,Other catering premises,,,,,5,2025-07-18,Reading,0,0,5,,
 280385,Emmbrook Court Very Sheltered Housing,Restaurant/Cafe/Canteen,EMMBROOK COURT,,READING,RG6 5TZ,5,2026-03-19,Reading,5,0,5,,
@@ -423,7 +426,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1948305,Events by Nathalie,Other catering premises,,,,,5,2026-01-20,Reading,5,0,0,,
 280180,Everest Tandoori Restaurant at Meadway Precinct,Restaurant/Cafe/Canteen,9 MEADWAY PRECINCT HONEY END LANE,,READING,,5,2025-09-03,Reading,5,5,5,-1.017291,51.449716
 1827407,Everyday Express,Retailers - other,260-262 Kentwood Hill Tilehurst,,Reading,RG31 6DR,AwaitingInspection,,Reading,,,,-1.0293584,51.4690413
-1948398,Evians Food,Restaurant/Cafe/Canteen,HUNTLEY PLACE 1 FLAGSTAFF ROAD,,READING,,5,2026-04-23,Reading,,,,,
+1948398,Evians Food,Restaurant/Cafe/Canteen,HUNTLEY PLACE 1 FLAGSTAFF ROAD,,READING,,5,2026-08-17,Reading,0,5,0,,
 1990113,Excel Consultants,Retailers - other,,,,,AwaitingInspection,,Reading,,,,,
 1298332,Exotic Food Market,Retailers - other,82-84 WHITLEY STREET,,READING,RG2 0EQ,3,2025-01-31,Reading,10,10,10,-0.9655373,51.4448107
 280683,Exotic Superstores,Retailers - other,732 OXFORD ROAD,,READING,RG30 1EH,4,2026-08-10,Reading,5,5,10,-1.0080155,51.4600417
@@ -432,7 +435,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1837407,Fab4all,Other catering premises,UNIT 16 NORTH STREET,,READING,RG1 7DA,4,2025-05-20,Reading,5,10,5,-0.9801145,51.4576802
 1948367,Farmhouse Pizza,Takeaway/sandwich shop,435 OXFORD ROAD,,Reading BERKSHIRE,RG3 1HD,4,2026-07-01,Reading,,,,,
 1948512,Fat Twins /Kaspa's,Restaurant/Cafe/Canteen,120 LONDON ROAD,,READING,RG1 5AY,AwaitingInspection,,Reading,,,,-0.9489659,51.4527649
-1645278,Favourite Chicken,Restaurant/Cafe/Canteen,10 ST MARYS BUTTS,,READING,RG1 2LN,2,2026-09-08,Reading,15,15,10,-0.975304,51.4545988
+2010405,Favourite Chicken,Takeaway/sandwich shop,10 ST MARYS BUTTS,,READING,RG1 2LN,AwaitingInspection,,Reading,,,,-0.975304,51.4545988
 1948342,Fennies Reading,Other catering premises,KILNBROOK HOUSE ROSE KILN LANE,,READING,RG2 0BY,AwaitingInspection,,Reading,,,,-0.9761088,51.4443552
 1985930,Fidget & Bob,Restaurant/Cafe/Canteen,58-60 MERRICK HOUSE WHALE AVENUE,,READING,RG2 0GX,AwaitingInspection,,Reading,,,,-0.9752376,51.4312104
 1948287,Fire Thru at 365 Gym,Restaurant/Cafe/Canteen,33 MEADWAY PRECINCT HONEY END LANE,,READING,RG30 4AA,1,2026-05-21,Reading,15,10,20,-1.017291,51.449716
@@ -446,7 +449,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1597118,Florence House Nursing Home,Hospitals/Childcare/Caring Premises,FLORENCE HOUSE CARE HOME 16-22 WESTCOTE ROAD,,READING,RG30 2DE,5,2026-04-20,Reading,,,,-0.9981913,51.4501714
 1651695,Fluffy Fluffy Reading,Other catering premises,UNIT 10 KINGS WALK 19-23 KINGS STREET,,,RG1 2HG,5,2025-09-03,Reading,5,5,5,,
 1688497,Food Avenue,Restaurant/Cafe/Canteen,168C WHITLEY WOOD ROAD,,READING,RG2 8LQ,5,2025-01-31,Reading,0,5,5,-0.959862,51.4190974
-1617696,"Foodwise Reading, Food Coach",Hospitals/Childcare/Caring Premises,ST AGNES CHURCH NORTHUMBERLAND AVENUE,,READING,,5,2024-12-19,Reading,5,5,0,,
+1617696,"Foodwise Reading, Food Coach",Hospitals/Childcare/Caring Premises,ST AGNES CHURCH NORTHUMBERLAND AVENUE,,READING,,5,2024-12-19,Reading,0,0,0,,
 280266,Forbury Gardens Day Nursery,Hospitals/Childcare/Caring Premises,FORBURY GARDENS DAY NURSERY ABBOTS WALK,,READING,RG1 3HW,5,2025-06-24,Reading,5,0,5,,
 434491,Four Seasons Fish & Chips,Takeaway/sandwich shop,268 KENTWOOD HILL,TILEHURST,READING,,3,2025-09-08,Reading,10,10,10,-1.0291676,51.4692105
 280126,Fox And Hounds,Pub/bar/nightclub,FOX & HOUNDS PH 51 GOSBROOK ROAD,CAVERSHAM,READING,RG4 8BN,3,2026-07-06,Reading,10,10,5,-0.9701409,51.466603
@@ -459,16 +462,15 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1725840,Funtastic Kids at Geoffrey Field Junior School,Hospitals/Childcare/Caring Premises,GEOFFREY FIELD JUNIOR SCHOOL EXBOURNE ROAD,,READING,RG2 8RH,5,2025-11-21,Reading,5,5,5,,
 280609,Funtastic Kids at Whitley Park Primary and Nursery School,Hospitals/Childcare/Caring Premises,WHITLEY PARK PRIMARY & NURSERY SCHOOL BRIXHAM ROAD,,READING,RG2 7RB,5,2025-08-13,Reading,5,5,5,,
 1559148,GAIL's Reading,Restaurant/Cafe/Canteen,134 BROAD STREET,,READING,RG1 2BD,5,2024-12-13,Reading,5,0,5,-0.9705015,51.4550423
-1834111,Garam,Mobile caterer,PLOT 1 MARKET TRADER FRIAR STREET TOWN HALL SQUARE,,READING,RG1 1HE,4,2025-10-01,Reading,,,,,
+1834111,Garam,Mobile caterer,PLOT 1 MARKET TRADER FRIAR STREET TOWN HALL SQUARE,,READING,RG1 1HE,4,2025-10-01,Reading,10,5,5,,
 1834119,Gather & Gather UK,Restaurant/Cafe/Canteen,41 WEST STREET,,READING,RG1 1TZ,5,2025-05-19,Reading,5,0,5,-0.9760777,51.4560444
 280181,Genting Casino (Reading),Restaurant/Cafe/Canteen,GENTING CASINO READING 18 RICHFIELD AVENUE,,READING,RG1 8PA,5,2025-12-22,Reading,5,0,5,-0.9830122,51.4639549
 1753660,Geo Cafe,Restaurant/Cafe/Canteen,10 PROSPECT STREET,CAVERSHAM,READING,,5,2026-04-21,Reading,5,5,5,-0.972891,51.4678681
 280614,George's Kebab Mobile Van,Mobile caterer,SCOURS LANE,,TILEHURST,RG30 6YD,5,2024-05-09,Reading,5,5,5,,
 1050912,German Doner Kebab,Restaurant/Cafe/Canteen,106 FRIAR STREET,,READING,RG1 1EP,4,2025-10-31,Reading,5,10,5,-0.9751047,51.4564315
-1627387,Get Active Sports,Other catering premises,REDLANDS PRIMARY SCHOOL LYDFORD ROAD,,READING,RG1 5QH,3,2025-05-11,Reading,10,10,10,,
+1627387,Get Active Sports,Other catering premises,REDLANDS PRIMARY SCHOOL LYDFORD ROAD,,READING,RG1 5QH,3,2025-03-11,Reading,10,10,10,,
 1321105,Ginger Perkins Artisan Bakery,Other catering premises,,,,,5,2025-04-28,Reading,0,5,5,,
 1470846,Global Hospitality Group UK,Other catering premises,KEY HOUSE COW LANE,,READING,RG1 8NA,5,2025-07-21,Reading,0,0,0,-0.9903704,51.4605925
-1976738,Gloria's Food Hall,Restaurant/Cafe/Canteen,1A QUEENS WALK,,READING,RG1 7QF,2,2026-05-28,Reading,15,5,10,-0.9775046,51.4550369
 1948440,Go Beanies Play & Learn (Civitas Academy),Other catering premises,CIVITAS ACADEMY 90A GREAT KNOLLYS STREET,,READING,RG1 7HL,5,2026-03-16,Reading,5,5,0,-0.9820874,51.4582818
 1948441,Go Beanies Play and Learn (Green Park),Other catering premises,GREEN PARK VILLAGE ACADEMY 2 FLAGSTAFF ROAD,,READING,RG2 6AX,5,2026-03-11,Reading,5,0,5,-0.995499,51.4256887
 1948442,Go Beanies Play and Learn (Palmer Academy),Other catering premises,THE PALMER PRIMARY ACADEMY 70 NORTHUMBERLAND AVENUE,,READING,RG2 7PP,5,2026-03-10,Reading,0,5,5,-0.9639627,51.4393748
@@ -477,19 +479,18 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 748904,Golden Bridge,Takeaway/sandwich shop,173 CAVERSHAM ROAD,,READING,RG1 8BB,3,2025-05-13,Reading,10,10,10,-0.976617,51.4634766
 280793,Golden Chef Chinese Takeaway,Takeaway/sandwich shop,72 BRIANTS AVENUE,CAVERSHAM,READING,RG4 5BA,3,2026-08-18,Reading,5,10,10,-0.9598005,51.4680582
 1340640,Golden Rice,Takeaway/sandwich shop,31 WHITLEY STREET,,READING,RG2 0EG,4,2025-08-15,Reading,5,10,5,-0.96539,51.4456007
-1948500,Goldilocks Nursery,Hospitals/Childcare/Caring Premises,77 SCHOOL ROAD,TILEHURST,READING,RG31 5AT,AwaitingInspection,,Reading,,,,-1.0389717,51.4582581
+1948500,Goldilocks Nursery,Hospitals/Childcare/Caring Premises,77 SCHOOL ROAD,TILEHURST,READING,RG31 5AT,5,2026-09-21,Reading,0,5,0,-1.0389717,51.4582581
 1976759,Good Old Days Hong Kong,Restaurant/Cafe/Canteen,66 GEORGE STREET,CAVERSHAM,READING,RG4 8DH,5,2026-07-09,Reading,5,5,5,-0.96625,51.4648691
-1948408,Goodday Home food,Other catering premises,,,,,3,2025-03-10,Reading,10,5,10,,
+1948408,Goodday Home food,Other catering premises,,,,,3,2026-03-10,Reading,10,5,10,,
 1730308,Gooi Nara,Restaurant/Cafe/Canteen,39 WHITLEY STREET,,READING,RG2 0EG,5,2026-09-16,Reading,,,,-0.9651626,51.4454728
 1400712,Gordon Ramsay Street Burger,Other catering premises,R17B THE RIVERSIDE THE ORACLE BRIDGE STREET,,READING,RG1 2AG,5,2026-07-03,Reading,5,5,0,-0.9712956,51.4536465
 1753656,Gosbrook Local,Retailers - other,228 GOSBROOK ROAD,CAVERSHAM,READING,RG4 8BL,5,2024-11-09,Reading,5,5,5,-0.9658046,51.4661061
 1229330,GPR Food & Wine,Retailers - other,513 OXFORD ROAD,,READING,,1,2026-07-07,Reading,10,5,20,,
 280836,Grange Pre School,Hospitals/Childcare/Caring Premises,GRANGE UNITED REFORMED CHURCH CIRCUIT LANE,,READING,RG30 3HD,5,2025-03-26,Reading,0,5,5,-1.0062813,51.4424387
 1948483,Grape Tree,Retailers - other,64 BROAD STREET MALL BROAD STREET,,READING,RG1 7QE,1,2026-03-27,Reading,0,15,20,-0.975875,51.4548107
-1376554,Green Bike Food Company,Takeaway/sandwich shop,11-12 THE MICRO CENTRE GILLETTE WAY,,READING,RG2 0LR,5,2024-07-13,Reading,0,5,5,-0.9707666,51.4330236
 1990148,Green Park Village Primary Academy,School/college/university,GREEN PARK VILLAGE ACADEMY 2 FLAGSTAFF ROAD,,READING,RG2 6AX,AwaitingInspection,,Reading,,,,-0.995499,51.4256887
 1827397,Green Whisk Bakery,Other catering premises,,,,,5,2025-03-28,Reading,5,0,0,,
-1948293,Greenshaw Learning Trust at John Madejski Academy,School/college/university,JOHN MADEJSKI ACADEMY 125 HARTLAND ROAD,,READING,RG2 8AF,5,2025-06-15,Reading,5,5,0,-0.9618616,51.4254275
+1948293,Greenshaw Learning Trust at John Madejski Academy,School/college/university,JOHN MADEJSKI ACADEMY 125 HARTLAND ROAD,,READING,RG2 8AF,5,2025-06-13,Reading,5,5,0,-0.9618616,51.4254275
 280342,Greggs,Restaurant/Cafe/Canteen,10 QUEEN VICTORIA STREET,,READING,RG1 1TG,5,2026-05-26,Reading,0,5,0,-0.9718672,51.4563941
 1827406,Greggs,Takeaway/sandwich shop,15-16 BROAD STREET MALL BROAD STREET,,READING,RG1 7QE,AwaitingInspection,,Reading,,,,-0.975875,51.4548107
 1834110,Greggs,Takeaway/sandwich shop,162 BATH ROAD,,READING,RG30 2HA,5,2025-04-22,Reading,0,0,0,-1.0198572,51.4444032
@@ -497,7 +498,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280457,Greggs,Takeaway/sandwich shop,82 CHRISTCHURCH ROAD,,READING,RG2 7AZ,5,2025-09-02,Reading,5,5,5,-0.9551264,51.4426412
 1376562,Greggs,Restaurant/Cafe/Canteen,UNIT B WHITEKNIGHTS RETAIL PARK 203-205 SHINFIELD ROAD,,READING,RG2 8HA,5,2026-04-03,Reading,0,5,5,-0.9455288,51.4283121
 1998922,Greggs (MFG Reading Rose Kiln Lane),Restaurant/Cafe/Canteen,RAJAN SERVICE STATION ROSE KILN LANE,,READING,RG2 0HP,AwaitingInspection,,Reading,,,,,
-280989,Greggs at Broad St Mall,Restaurant/Cafe/Canteen,16 BROAD STREET MALL BROAD STREET,,READING,RG1 7QE,5,2024-10-25,Reading,0,5,0,-0.9753815,51.4549952
+280989,Greggs at Broad St Mall,Restaurant/Cafe/Canteen,16 BROAD STREET MALL BROAD STREET,,READING,RG1 7QE,5,2026-10-07,Reading,0,5,0,-0.9753815,51.4549952
 1948311,Grill Masters,Mobile caterer,,,,,5,2025-05-12,Reading,5,0,5,,
 1976763,Grilla Kitchen,Restaurant/Cafe/Canteen,41 WHITLEY STREET,,READING,RG2 0EG,4,2026-08-19,Reading,5,5,10,-0.965236,51.4454105
 1590310,Grip UK,Restaurant/Cafe/Canteen,UNIT 8 STADIUM WAY,TILEHURST,READING,RG30 6BX,5,2025-01-19,Reading,5,5,5,-1.0129829,51.4633207
@@ -516,10 +517,10 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1639613,Harper?s Candylicious Sweets,Importers/Exporters,82 BELMONT ROAD,,READING,RG30 2UU,5,2024-07-16,Reading,0,0,5,-0.9972528,51.4552473
 1739958,Harput Kebab,Restaurant/Cafe/Canteen,139 OXFORD ROAD,,READING,,5,2026-08-06,Reading,,,,-0.9821065,51.454829
 280475,Harrison Catering Services at Blessed Hugh Faringdon School,School/college/university,HUGH FARRINGDON RC SCHOOL FAWLEY ROAD,,READING,RG30 3EP,5,2026-01-07,Reading,5,5,5,-1.0042309,51.4447592
-1762485,Harrison Catering Services at The Heights Primary School,School/college/university,THE HEIGHTS PRIMARY SCHOOL 129 UPPER WOODCOTE ROAD,CAVERSHAM,READING,RG4 7LB,5,2024-11-20,Reading,5,5,5,-0.9962644,51.4769427
+1762485,Harrison Catering Services at The Heights Primary School,School/college/university,THE HEIGHTS PRIMARY SCHOOL 129 UPPER WOODCOTE ROAD,CAVERSHAM,READING,RG4 7LB,5,2026-10-13,Reading,0,0,5,-0.9962644,51.4769427
 1656123,Harrison Catering Services Limited at The Wren School,School/college/university,THE WREN SCHOOL 61-63 BATH ROAD,,READING,RG30 2BB,4,2025-09-09,Reading,10,5,5,-0.9992605,51.4463534
 1976774,Haute Dolci,Restaurant/Cafe/Canteen,Unit 15a The Riverside The Oracle Bridge Street READING,,Berkshire,RG1 2AG,0,2026-09-01,Reading,20,15,20,-0.9712956,51.4536465
-1998907,HCL @ Civitas Academy,Other catering premises,CIVITAS ACADEMY 90A GREAT KNOLLYS STREET,,READING,RG1 7HL,AwaitingInspection,,Reading,,,,-0.9820874,51.4582818
+1998907,HCL @ Civitas Academy,Other catering premises,CIVITAS ACADEMY 90A GREAT KNOLLYS STREET,,READING,RG1 7HL,4,2026-09-30,Reading,5,5,10,-0.9820874,51.4582818
 1998908,HCL @ Green Park Village Primary Academy,Other catering premises,Green Park Village Academy Flagstaff Road,,Reading,RG2 6AX,5,2026-09-23,Reading,5,5,5,,
 1998909,HCL @ The Palmer Primary Academy,Other catering premises,THE PALMER PRIMARY ACADEMY 70 NORTHUMBERLAND AVENUE,,READING,RG2 7PP,5,2026-09-23,Reading,5,0,0,-0.9639627,51.4393748
 1988166,HCL at Ranikhet Academy,School/college/university,RANIKHET PRIMARY SCHOOL SPEY ROAD,TILEHURST,READING,RG30 4ED,5,2026-09-15,Reading,0,0,0,,
@@ -527,7 +528,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1948466,Hevs Premier,Retailers - other,733 Oxford Road,,Reading,RG30 1JA,3,2025-01-12,Reading,10,10,10,-1.0137559,51.4621852
 280725,Hewad Store,Retailers - other,774 OXFORD ROAD,,READING,RG30 1EL,2,2026-02-25,Reading,10,15,10,-1.009742,51.4607487
 1990185,Hexham Community Centre,Other catering premises,HEXHAM COMMUNITY CENTRE 1A BAMBURGH CLOSE,,READING,RG2 7UD,4,2025-05-29,Reading,5,10,5,-0.9590591,51.4373711
-1948285,Hexham Road Pantry,Other catering premises,HEXHAM COMMUNITY CENTRE 1A BAMBURGH CLOSE,,READING,RG2 7UD,4,2025-05-29,Reading,5,10,5,-0.9590591,51.4373711
+1948285,Hexham Road Pantry,Other catering premises,HEXHAM COMMUNITY CENTRE 1A BAMBURGH CLOSE,,READING,RG2 7UD,5,2025-08-13,Reading,0,5,0,-0.9590591,51.4373711
 1645279,Hey Coffee,Restaurant/Cafe/Canteen,PROSPECT PAVILION PROSPECT PARK LIEBENROOD ROAD,,READING,RG30 2ND,3,2026-09-03,Reading,5,10,10,-1.0067767,51.450122
 1965289,Hey Flash,Mobile caterer,,,,,AwaitingInspection,,Reading,,,,,
 1988167,Hills Meadow Car Wash,Restaurant/Cafe/Canteen,HILLS MEADOW CAR PARK GEORGE STREET CAVERSHAM,,READING,RG4 8DH,2,2026-08-17,Reading,15,5,10,,
@@ -559,6 +560,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 572245,House of Flavours,Restaurant/Cafe/Canteen,HA HA BAR 34-36 KINGS ROAD,,READING,RG1 3AA,5,2025-11-13,Reading,0,5,0,-0.967026,51.4547149
 1576368,Hungry Birds,Takeaway/sandwich shop,256 KENTWOOD HILL,TILEHURST,READING,RG31 6DR,5,2026-06-29,Reading,5,5,5,-1.029519,51.4689347
 1948365,Ibis Reading Centre,Restaurant/Cafe/Canteen,IBIS READING CENTRE 25A FRIAR STREET,,READING,RG1 1DP,5,2025-10-24,Reading,0,0,0,-0.9727917,51.4569632
+2010416,Icchikuan,Mobile caterer,47 CHURCH STREET,CAVERSHAM,READING,RG4 8BA,AwaitingInspection,,Reading,,,,-0.9741115,51.4674649
 280832,Iceland,Retailers - supermarkets/hypermarkets,39 CHURCH STREET,CAVERSHAM,READING,RG4 8BA,5,2025-02-07,Reading,0,5,5,-0.9746661,51.4670294
 1170755,Iceland,Retailers - supermarkets/hypermarkets,47 OXFORD ROAD,,READING,RG1 7QG,5,2025-02-13,Reading,0,0,5,-0.9773688,51.4551312
 280848,ICMA Centre Café,Restaurant/Cafe/Canteen,UNIVERSITY OF READING IMCA CENTRE WHITEKNIGHTS READING,,,RG6 6DL,5,2024-04-05,Reading,0,0,5,,
@@ -574,6 +576,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1841352,Istanbul Mangal,Takeaway/sandwich shop,15 THE TRIANGLE,TILEHURST,READING,RG30 4RN,2,2026-08-20,Reading,,,,-1.040492,51.45783
 1948493,Itsu,Restaurant/Cafe/Canteen,31 QUEEN VICTORIA STREET,,READING,RG1 1SY,5,2026-04-14,Reading,5,5,5,-0.9722672,51.4558851
 1562512,J Guris,Retailers - other,53 WOKINGHAM ROAD,,READING,RG6 1LH,4,2024-11-17,Reading,5,10,5,-0.9375359,51.4492001
+2010402,Jadacooksss,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 1613328,Jaffa Street / Puree,Other catering premises,UNIT B1 GREAT KNOLLYS STREET,,READING,RG1 7HN,5,2024-09-22,Reading,5,5,5,-0.9793973,51.4582135
 1003432,Jamaica Blue Coffee Shop South Block at Royal Berkshire Hospital,Restaurant/Cafe/Canteen,ROYAL BERKSHIRE HOSPITAL MATERNITY UNIT CRAVEN ROAD,,READING,RG1 5AW,4,2025-02-06,Reading,0,10,5,-0.9573062,51.4486312
 1976711,JAMPat?s,Mobile caterer,,,,,5,2026-08-26,Reading,5,5,5,,
@@ -613,7 +616,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1834114,Keep Me Sweet,Other catering premises,,,,,5,2025-04-09,Reading,0,0,0,,
 280761,Kennet Corner Store,Retailers - other,101A CHOLMELEY ROAD,,READING,RG1 3LY,5,2025-02-13,Reading,5,0,5,-0.9488704,51.4562978
 739482,Kenya Butchers,Retailers - other,20 WEST STREET,,READING,RG1 1TT,1,2026-03-20,Reading,10,15,20,-0.9752513,51.4556684
-280225,KFC,Restaurant/Cafe/Canteen,207 SHINFIELD ROAD,,READING,RG2 8HA,5,2025-11-21,Reading,5,0,5,-0.9457764,51.4281794
+280225,KFC,Restaurant/Cafe/Canteen,207 SHINFIELD ROAD,,READING,RG2 8HA,5,2026-10-13,Reading,0,5,5,-0.9457764,51.4281794
 280386,KFC,Takeaway/sandwich shop,73-74 BROAD STREET,,READING,RG1 2AF,5,2025-06-08,Reading,5,5,5,-0.9750786,51.4556669
 1025148,KFC at Forbury Retail Park,Restaurant/Cafe/Canteen,UNIT 5 FORBURY RETAIL PARK FORBURY ROAD,,READING,RG1 3JD,4,2026-04-23,Reading,5,10,5,-0.9625764,51.4580026
 280543,KFC at Reading Gate Retail Park,Restaurant/Cafe/Canteen,UNIT 6 READING GATE RETAIL PARK,,READING,RG2 0QG,4,2025-04-05,Reading,5,5,10,-0.9802541,51.4242495
@@ -625,6 +628,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1495635,Kings Road News & Off Licence,Retailers - other,83 KINGS ROAD,,READING,,4,2024-12-07,Reading,10,0,10,,
 1175810,Kobeda Palace,Restaurant/Cafe/Canteen,409-411 OXFORD ROAD,,READING,RG30 1HA,3,2025-06-17,Reading,10,10,10,-0.9962997,51.4567049
 979611,Kokoro,Restaurant/Cafe/Canteen,29 QUEEN VICTORIA STREET,,READING,RG1 1SY,3,2026-01-13,Reading,,,,-0.9722662,51.45593
+2010413,Konk,Takeaway/sandwich shop,UNIT 49 MILFORD ROAD,,READING,RG1 8LG,AwaitingInspection,,Reading,,,,-0.9816241,51.4622883
 1948453,"KOOSA Kids Breakfast, After School and Holiday Club at The Heights Primary School, Caversham",School/college/university,THE HEIGHTS PRIMARY SCHOOL 129 UPPER WOODCOTE ROAD,CAVERSHAM,READING,RG4 7LB,5,2026-03-31,Reading,5,0,5,-0.9962644,51.4769427
 1630562,Korean Street Food - The Bap,Restaurant/Cafe/Canteen,23-24 MARKET PLACE,,READING,RG1 2DE,3,2025-08-06,Reading,10,10,10,-0.9697148,51.4561054
 1513492,Krispy Kreme,Takeaway/sandwich shop,12 BRUNEL ARCADE STATION APPROACH,,READING,,5,2025-07-30,Reading,0,0,0,,
@@ -637,30 +641,29 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 867847,La Kordun,Mobile caterer,,,,,5,2025-11-12,Reading,0,5,0,,
 1948392,Laddu Box,Restaurant/Cafe/Canteen,19-23 KINGS WALK KING STREET,,READING,RG1 2HG,5,2026-01-19,Reading,5,5,5,-0.9696329,51.45463
 280915,Lakeside Care Home,Hospitals/Childcare/Caring Premises,LAKESIDE CARE HOME 25 WHITEKNIGHTS ROAD,,READING,RG6 7BY,5,2026-05-12,Reading,5,5,5,,
-1976773,Lakhe,Retailers - other,55 ST MARYS BUTTS READING,,,RG1 2LG,AwaitingInspection,,Reading,,,,-0.9743673,51.4546536
+1976773,Lakhe,Retailers - other,55 ST MARYS BUTTS READING,,,RG1 2LG,3,2026-09-28,Reading,10,10,10,-0.9743673,51.4546536
 280802,Las Iguanas at The Oracle,Pub/bar/nightclub,R17A THE RIVERSIDE THE ORACLE BRIDGE STREET,,READING,RG1 2AG,4,2025-09-08,Reading,10,0,10,-0.9712956,51.4536465
 1948318,Laura's Cookies,Other catering premises,UNIT 3 PADDOCK ROAD INDUSTRIAL ESTATE PADDOCK ROAD,CAVERSHAM,READING,RG4 5BY,5,2025-07-23,Reading,5,0,0,-0.955477,51.4651062
 1677429,Lazaro Store Limited,Retailers - other,7 WHITLEY STREET,,READING,RG2 0EG,4,2024-09-01,Reading,5,5,10,-0.9656221,51.4461513
-1976742,Leaf and Lustre Mayfair,Importers/Exporters,,,,,AwaitingInspection,,Reading,,,,,
 728851,Leander Service Station,Retailers - other,SERVICE STATION 184 HENLEY ROAD,CAVERSHAM,READING,RG4 5LW,5,2023-11-01,Reading,0,5,5,-0.9532802,51.4711563
+2010417,Learn and grow nursery & Pre-school,Hospitals/Childcare/Caring Premises,63 MERRICK HOUSE WHALE AVENUE,,READING,RG2 0GX,AwaitingInspection,,Reading,,,,-0.9750447,51.4308311
 1750473,Lebanese Flavours,Restaurant/Cafe/Canteen,82 LONDON STREET,,READING,,3,2026-08-19,Reading,10,10,5,-0.9680305,51.4516485
 1948422,Lebanese Village Reading,Restaurant/Cafe/Canteen,6 BRIDGE STREET,CAVERSHAM,READING,RG4 8AA,5,2025-10-01,Reading,5,5,0,-0.9771378,51.4665834
 1976731,Leelee & Tay's ? Sweet Treats & Trini Eats,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 1175812,Lee's Garden,Takeaway/sandwich shop,10 MEADWAY PRECINCT HONEY END LANE,,READING,RG30 4AA,3,2024-10-03,Reading,10,10,5,-1.017291,51.449716
-1976721,Lekker Wors,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
+1976721,Lekker Wors,Other catering premises,,,,,5,2026-10-14,Reading,5,0,5,,
 1769958,Li Sun,Other catering premises,,,,,4,2024-12-13,Reading,5,0,10,,
 434490,Lidl,Retailers - supermarkets/hypermarkets,569-575 BASINGSTOKE ROAD,,READING,RG2 0SJ,4,2025-02-13,Reading,5,10,5,-0.9680977,51.4215884
 280265,Lidl Great Britain,Retailers - supermarkets/hypermarkets,291 OXFORD ROAD,,READING,RG30 1AS,5,2024-04-26,Reading,5,5,0,-0.99094234,51.45585408
 1948391,Lidl Great Britain Limited,Retailers - supermarkets/hypermarkets,LIDL UK GMBH READING RETAIL PARK OXFORD ROAD,,READING,RG30 1PR,5,2026-03-01,Reading,0,0,0,-1.0124284,51.4609961
 280465,Life Care Corporation,Hospitals/Childcare/Caring Premises,29-31 CRESSINGHAM ROAD,,READING,RG2 7RU,5,2025-10-22,Reading,0,0,5,-0.9541127,51.4324646
-1948503,Lili World,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 1998931,Lime Hut,Mobile caterer,83 WAVERLEY ROAD,,READING,RG30 2QB,AwaitingInspection,,Reading,,,,-1.0077531,51.454878
 728856,Lincoln Coffee House,Restaurant/Cafe/Canteen,60 KINGS ROAD,,READING,RG1 3AA,5,2026-05-07,Reading,5,5,5,-0.9659626,51.4546426
 1776118,Lincoln Coffee House,Restaurant/Cafe/Canteen,GEORGE HOTEL 10-12 KING STREET,,READING,RG1 2HF,5,2025-08-04,Reading,5,0,5,-0.9701369,51.4548161
 1948486,Liquor & Vape Shop,Retailers - other,27 SCHOOL ROAD,TILEHURST,READING,RG31 5AR,4,2026-03-17,Reading,5,5,10,-1.0368833,51.4603721
 1948321,Little Apron,Restaurant/Cafe/Canteen,6 CROWN COLONNADE LONDON ROAD,,READING,RG1 5BA,5,2025-09-03,Reading,5,5,5,-0.9494464,51.452623
 929951,Little Badgers Pre-School,School/college/university,SCOUT HALL ARMOUR HILL,TILEHURST,READING,RG31 6JH,5,2024-12-12,Reading,0,0,0,-1.0326762,51.4646446
-280642,Little Dragons Nursery,Hospitals/Childcare/Caring Premises,57-59 BATH ROAD,,READING,RG30 2BA,5,2024-11-27,Reading,0,0,5,-0.9981517,51.4470453
+280642,Little Dragons Nursery,Hospitals/Childcare/Caring Premises,57-59 BATH ROAD,,READING,RG30 2BA,5,2026-03-11,Reading,5,5,5,-0.9981517,51.4470453
 491651,Little Tots Montessori Nursery,Hospitals/Childcare/Caring Premises,59 PRINCE OF WALES AVENUE,,READING,RG30 2UJ,5,2026-01-27,Reading,0,5,0,-0.9937369,51.4541202
 1634989,Lois Afro Shop,Retailers - other,273 OXFORD ROAD,,READING,,1,2025-09-24,Reading,10,15,20,,
 1990133,Lola Lo's,Pub/bar/nightclub,126 FRIAR STREET,,READING,RG1 1EP,AwaitingInspection,,Reading,,,,-0.9739662,51.456478
@@ -669,17 +672,18 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1354030,Londis Kennet Island,Retailers - other,61 MERRICK HOUSE WHALE AVENUE,,READING,RG2 0GX,4,2025-08-12,Reading,0,5,10,-0.9750129,51.4309657
 1948446,Londis Reading Rose Kiln,Retailers - other,RAJAN SERVICE STATION ROSE KILN LANE,,READING,RG2 0HP,AwaitingInspection,,Reading,,,,,
 1976713,Love Li?s Bakehouse,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
+2010401,Lowkey Sauces,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 1298323,Luisella,Other catering premises,,,,,5,2026-07-16,Reading,5,0,5,,
 1959924,LuvMuffin,Mobile caterer,7 WINTON ROAD,,READING,RG2 8HH,AwaitingInspection,,Reading,,,,-0.953334,51.4228519
-1990147,Lyndhurst Arms,Pub/bar/nightclub,88 QUEENS ROAD,,READING,,AwaitingInspection,,Reading,,,,,
 491675,M & A Convenience Store,Retailers - other,2 DUKE STREET,,READING,RG1 4RU,5,2025-08-19,Reading,0,0,0,-0.9692391,51.4548603
 1298315,M & M Food and Wine,Retailers - other,55-57 WOKINGHAM ROAD,,READING,RG6 1LH,1,2025-12-10,Reading,10,15,20,-0.9374934,51.4491727
+2010410,M23 Projects,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 1965290,Mac's Coffee,Restaurant/Cafe/Canteen,33 CASTLE STREET,,READING,RG1 7SB,3,2026-07-27,Reading,10,10,10,-0.975339,51.4530345
 1948455,Mac's Deli - Reading,Takeaway/sandwich shop,BLUE COLLAR CORNER 15 HOSIER STREET,,READING,RG1 7QL,3,2026-03-26,Reading,10,10,10,,
 772168,Mad Hatters Pottery Painting Cafe,Restaurant/Cafe/Canteen,114-116 SCHOOL ROAD,TILEHURST,READING,,5,2025-02-12,Reading,5,5,5,-1.0426695,51.4576319
 1750464,Madni Halal Meat Reading,Retailers - other,232 SHINFIELD ROAD,,READING,RG2 8EX,AwaitingInspection,,Reading,,,,-0.9463056,51.4283101
 1288463,Madoo,Restaurant/Cafe/Canteen,10-14 DUKE STREET,,READING,,4,2026-01-13,Reading,10,5,5,-0.9690299,51.4545617
-1354029,Madras Flavours,Restaurant/Cafe/Canteen,11 KINGS ROAD,,READING,RG1 3AR,2,2026-06-29,Reading,15,15,10,-0.9683493,51.4550685
+1354029,Madras Flavours,Restaurant/Cafe/Canteen,11 KINGS ROAD,,READING,RG1 3AR,4,2026-09-16,Reading,,,,-0.9683493,51.4550685
 1948347,Mai Sushi,Retailers - other,12 BROAD STREET,,READING,RG1 2BH,5,2025-11-26,Reading,0,5,0,-0.9707529,51.4560246
 1948415,Maiden Erlegh School Reading,Other catering premises,81 CRESCENT ROAD,,READING,RG1 5SL,4,2026-03-17,Reading,10,5,5,-0.9404898,51.4477881
 1354039,Maiden Erlegh Trust at Hamilton School,School/college/university,HAMILTON SCHOOL 135 BULMERSHE ROAD,,READING,RG1 5SG,5,2024-11-28,Reading,5,0,5,-0.9396912,51.4462343
@@ -688,10 +692,11 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1998930,Malcolm Atelier,Other catering premises,FLAT 5 25 SCOTT CLOSE,EMMER GREEN,READING,RG4 8NY,AwaitingInspection,,Reading,,,,-0.9723384,51.478375
 1097692,Malik Brothers Halal Meat at Best Foods,Retailers - other,129-131 Oxford Road,,Reading,RG1 7UU,4,2026-05-12,Reading,5,5,10,-0.9817197,51.4547447
 1562518,Malinka Cash & Carry,Importers/Exporters,Unit 1 Little Johns Lane Reading RG30 1RA,,Reading,,4,2025-01-06,Reading,5,5,10,-1.0026333,51.4586652
-280680,Malmaison Hotel,Hotel/bed & breakfast/guest house,MALMAISON READING 18-20 STATION ROAD,,READING,RG1 1JX,5,2024-10-25,Reading,0,5,0,-0.9719403,51.4576266
+280680,Malmaison Hotel,Hotel/bed & breakfast/guest house,MALMAISON READING 18-20 STATION ROAD,,READING,RG1 1JX,5,2026-10-28,Reading,5,5,0,-0.9719403,51.4576266
 1841348,Mal'va,Restaurant/Cafe/Canteen,21 SIDMOUTH STREET,,READING,RG1 4QZ,5,2025-05-14,Reading,5,5,5,-0.963387,51.4520751
 807453,Mamafrika Tropic Food,Retailers - other,385 OXFORD ROAD,,READING,RG30 1HA,4,2026-03-19,Reading,0,10,10,-0.9951678,51.4564704
 1380866,Mama's Way,Restaurant/Cafe/Canteen,10-14 DUKE STREET,,READING,,5,2025-10-15,Reading,5,5,0,-0.9690299,51.4545617
+2010412,Manadhe Limited,Mobile caterer,UNIT 5 READING GATE RETAIL PARK,,READING,RG2 0QG,AwaitingInspection,,Reading,,,,-0.9800929,51.4224407
 1827405,Mandy's Food and Wine,Retailers - other,21 MEADWAY PRECINCT HONEY END LANE,,READING,RG30 4AA,4,2026-03-17,Reading,5,10,5,-1.017291,51.449716
 1759430,Mangiare,Takeaway/sandwich shop,6 KINGS ROAD,CAVERSHAM,READING,RG4 8DT,5,2026-05-09,Reading,5,5,5,-0.9657927,51.4653597
 1038590,Manzano's Peri Peri,Restaurant/Cafe/Canteen,39-41 OXFORD ROAD,,READING,RG1 7QG,4,2025-10-16,Reading,,,,-0.977071,51.455145
@@ -723,8 +728,8 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1948400,Me Kong Restaurant/Happy Valley,Restaurant/Cafe/Canteen,ST LAWRENCE HOUSE ABBEY SQUARE,,READING,RG1 3AG,5,2026-02-03,Reading,5,5,5,-0.9670817,51.4554348
 280521,Meadow Park Academy,School/college/university,MEADOW PARK ACADEMY NORCOT ROAD,TILEHURST,READING,RG30 6BS,5,2026-09-18,Reading,5,0,5,,
 1194594,Meadway News,Retailers - other,151 The Meadway Tilehurst READING,,Berkshire,RG30 4AP,5,2025-04-04,Reading,0,5,5,-1.0245154,51.4512995
-1488693,Meat Wala,Retailers - other,19-20 MEADWAY PRECINCT HONEY END LANE,,READING,RG30 4AA,4,2025-04-14,Reading,0,10,10,,
 1948470,Meat Wala,Retailers - other,61 St Marys Butts,,Reading,RG1 2LG,3,2026-03-03,Reading,10,10,5,-0.9744754,51.4549693
+1488693,Meat Wala,Retailers - other,GROCERY ASIA 19-20 MEADWAY PRECINCT HONEY END LANE,,READING,RG30 4AA,4,2025-04-14,Reading,0,10,10,-1.017291,51.449716
 711955,Medusa,Pub/bar/nightclub,THE ARCHES CLUB ABATTOIRS ROAD,,READING,RG1 7BL,AwaitingInspection,,Reading,,,,-0.9769082,51.4594596
 851591,Memory of Sichuan,Restaurant/Cafe/Canteen,109 FRIAR STREET,,READING,RG1 1EP,4,2026-04-07,Reading,,,,-0.9745715,51.4564628
 1948379,Mena's Kitchen,Other catering premises,,,,,5,2025-12-18,Reading,0,5,0,,
@@ -735,6 +740,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1990117,Michaela Starrett,Other catering premises,,,,,5,2025-11-21,Reading,0,0,5,,
 280766,Micklands Pre-School,Hospitals/Childcare/Caring Premises,MICKLANDS PRIMARY SCHOOL MICKLANDS ROAD,CAVERSHAM,READING,RG4 6LU,5,2026-03-20,Reading,0,0,0,-0.9521686,51.4744285
 1998918,Micklands Primary school,School/college/university,MICKLANDS PRIMARY SCHOOL MICKLANDS ROAD,CAVERSHAM,READING,RG4 6LU,5,2026-09-08,Reading,5,0,5,-0.9521686,51.4744285
+2010404,Milanos Pizza,Takeaway/sandwich shop,136 WOKINGHAM ROAD,,READING,RG6 1JL,AwaitingInspection,,Reading,,,,-0.9383545,51.4492704
 465832,Milk Bar Reading,Pub/bar/nightclub,8 MERCHANTS PLACE,,READING,RG1 1DT,5,2025-03-19,Reading,0,0,0,-0.9734715,51.4573793
 280963,Miller & Carter at The Oracle,Restaurant/Cafe/Canteen,R5 TO 6 THE RIVERSIDE THE ORACLE BRIDGE STREET,,READING,RG1 2AG,5,2026-03-18,Reading,0,5,5,-0.9712956,51.4536465
 280258,Miller & Carter Caversham,Pub/bar/nightclub,THE GROSVENOR PH 109 KIDMORE ROAD,CAVERSHAM,READING,RG4 7NH,5,2025-10-16,Reading,5,5,5,-0.9855472,51.4801355
@@ -799,6 +805,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1948329,Naa's Kitchen,Retailers - other,,,,,3,2025-10-02,Reading,10,10,10,,
 1959925,Naijbasket,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 1948431,Namak Mirch,Takeaway/sandwich shop,251 LONDON ROAD,,READING,RG1 3NY,3,2026-03-11,Reading,10,10,10,-0.946727,51.4537519
+2010406,Naman UK,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 1021282,Namaste Kitchen at Hook & Tackle,Pub/bar/nightclub,HOOK & TACKLE PH KATESGROVE LANE,,READING,RG1 2ND,3,2025-09-11,Reading,10,10,10,,
 1998912,Nanaoo's,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 1990101,Nandos,Restaurant/Cafe/Canteen,Nando's Reading Gateway Unit B2 Reading Gate Retail Park Imperial Way,,Reading,RG2 0GG,AwaitingInspection,,Reading,,,,,
@@ -825,7 +832,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1688499,Next Thing Education Camps,Other catering premises,MANOR PRIMARY SCHOOL 110 ASHAMPSTEAD ROAD,,READING,RG30 3LJ,5,2024-04-04,Reading,0,5,5,-1.0159849,51.4415135
 1587251,Next Thing Education Camps,Other catering premises,ST MICHAELS PRIMARY SCHOOL DEE ROAD,TILEHURST,READING,RG30 4AS,4,2026-03-31,Reading,5,10,5,,
 1418654,Nibsy's,Other catering premises,,,,,5,2026-05-11,Reading,5,0,5,,
-1948445,Nibsy's,Mobile caterer,Reading Station North Pitch 1 Trooper Potts Way,,Reading,,AwaitingInspection,,Reading,,,,,
+1948445,Nibsy's,Mobile caterer,Reading Station North Pitch 1 Trooper Potts Way,,Reading,,5,2025-10-28,Reading,5,5,0,,
 1948389,Nicola Page Slimming World Consultant,Retailers - other,,,,,AwaitingInspection,,Reading,,,,,
 1750483,NineSix,Distributors/Transporters,20-22 RICHFIELD AVENUE,,READING,RG1 8EQ,4,2024-10-17,Reading,5,5,10,-0.9823905,51.4640754
 1948510,NIRAI,Restaurant/Cafe/Canteen,64 ST MARYS BUTTS,,READING,RG1 2LG,5,2026-05-19,Reading,5,5,5,-0.9747663,51.4550324
@@ -839,7 +846,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1627372,Norcot Service Station,Retailers - other,NORCOT SERVICE STATION 856 OXFORD ROAD,,READING,RG30 1EL,5,2023-06-22,Reading,0,0,0,-1.0129698,51.4625923
 280525,Northcourt Lodge Nursing Home,Hospitals/Childcare/Caring Premises,65 NORTHCOURT AVENUE,,READING,RG2 7HF,5,2026-09-24,Reading,0,5,0,-0.9522019,51.4384069
 465827,Northcourt News,Retailers - other,159 NORTHCOURT AVENUE,,READING,RG2 7HG,5,2025-04-24,Reading,0,5,5,-0.9502022,51.4340191
-280526,Northumberland Day Nursery,Hospitals/Childcare/Caring Premises,14 NORTHUMBERLAND AVENUE,,READING,RG2 7PW,5,2025-06-06,Reading,0,5,5,-0.9627571,51.4417829
+280526,Northumberland Day Nursery,Hospitals/Childcare/Caring Premises,14 NORTHUMBERLAND AVENUE,,READING,RG2 7PW,4,2026-09-28,Reading,5,5,10,-0.9627571,51.4417829
 1298318,Northumberland Food & Wine,Retailers - other,467 NORTHUMBERLAND AVENUE,,READING,RG2 8LZ,4,2026-05-06,Reading,10,10,0,-0.9591518,51.4231464
 1948330,Nosh @,Takeaway/sandwich shop,48A BUCKLAND ROAD,,READING,RG2 7SW,2,2025-05-19,Reading,10,15,5,-0.967908,51.433484
 1948374,Not Just Spuds,Mobile caterer,O/S READING STATION STATION HILL,,READING,RG1 1LY,4,2026-03-03,Reading,10,5,5,,
@@ -856,12 +863,10 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1714722,OCS at Tesco Distribution Centre,Restaurant/Cafe/Canteen,TESCO READING DISTRIBUTION CENTRE IMPERIAL WAY,,READING,RG2 0RS,5,2026-06-19,Reading,0,0,0,,
 1734392,"OCS at Thames Water, Kemble Court",Restaurant/Cafe/Canteen,550 SOUTH OAK WAY,,READING,RG2 6AD,3,2026-06-22,Reading,10,5,10,-0.9905839,51.420841
 1948474,Octobonbon,Other catering premises,,,,,5,2026-03-30,Reading,0,0,0,,
-1976717,Office Point,Distributors/Transporters,Unit 5-6 Caxton Close Loverock Road Trading Estate,,Reading Berkshire,RG30 1DZ,AwaitingInspection,,Reading,,,,,
 1622233,Ohayo Sushi & Wok,Takeaway/sandwich shop,936 OXFORD ROAD,TILEHURST,READING,RG30 6TJ,5,2026-01-14,Reading,0,5,0,-1.0184853,51.4651742
 1802913,Oishi,Takeaway/sandwich shop,314 OXFORD ROAD,,READING,RG30 1AD,4,2026-03-25,Reading,5,5,10,-0.9949606,51.4567294
 656338,Olive Catering at Hibu Staff Canteen,Restaurant/Cafe/Canteen,23 FORBURY ROAD,,READING,RG1 3JH,5,2025-09-03,Reading,5,5,5,-0.9676819,51.4581826
 1990102,Oliver Bonas,Retailers - other,Unit L4 Holy Brook Walk The Oracle Bridge Street READING,,Berkshire,RG1 2AQ,Exempt,,Reading,,,,-0.9712956,51.4536465
-1976743,Oliver's Pure Oil,Retailers - other,,,,,AwaitingInspection,,Reading,,,,,
 1423355,One Below,Retailers - supermarkets/hypermarkets,UNIT 1 STATION SHOPPING PARK VASTERN ROAD,,READING,RG1 8AL,4,2025-11-28,Reading,5,10,5,,
 1948475,One School Global,School/college/university,One School Global  14 Arkwright Road,,Reading,RG2 0LU,AwaitingInspection,,Reading,,,,-0.9706839,51.4367005
 1685065,One Stop Shop,Retailers - other,83 NORTHUMBERLAND AVENUE,,READING,RG2 7PT,3,2025-09-19,Reading,10,10,10,-0.9621765,51.4388374
@@ -871,7 +876,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1706092,Ori Caffe at John Lewis,Restaurant/Cafe/Canteen,108-113 BROAD STREET,,READING,RG1 2BB,5,2025-09-22,Reading,0,5,0,-0.9720641,51.4553168
 280213,Oriental Express,Takeaway/sandwich shop,20 FARNHAM DRIVE,CAVERSHAM,READING,RG4 6NY,3,2026-02-05,Reading,10,10,5,-0.9464445,51.4785225
 1714719,Oriental Gourmet Chinese,Takeaway/sandwich shop,15 SCHOOL ROAD,TILEHURST,READING,,4,2025-06-17,Reading,5,10,5,-1.0366063,51.4605407
-1245385,Osaka at the Oracle,Restaurant/Cafe/Canteen,R16 THE RIVERSIDE THE ORACLE BRIDGE STREET,,READING,RG1 2AG,5,2024-10-07,Reading,5,5,5,-0.9712956,51.4536465
+1245385,Osaka at the Oracle,Restaurant/Cafe/Canteen,R16 THE RIVERSIDE THE ORACLE BRIDGE STREET,,READING,RG1 2AG,5,2026-10-28,Reading,5,5,5,-0.9712956,51.4536465
 1948487,Our Coop Little Pioneers,Other catering premises,The Hospitium Valpy Street,,Reading,RG1 1AR,5,2025-11-18,Reading,0,5,0,,
 994490,Overbridge WHSmiths at Reading Rail Station,Retailers - other,BRUNEL ARCADE STATION APPROACH,,READING,,Exempt,,Reading,,,,-0.9715063,51.4583692
 1990094,Oxfam,Retailers - other,12 PROSPECT STREET,CAVERSHAM,READING,RG4 8JG,Exempt,,Reading,,,,-0.9728758,51.4679039
@@ -879,13 +884,13 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280535,Oxford Road Primary School,School/college/university,OXFORD ROAD PRIMARY SCHOOL 146 OXFORD ROAD,,READING,RG1 7PJ,5,2023-10-06,Reading,0,0,0,-0.9868648,51.4557335
 280999,Oxford Road Service Station,Retailers - other,150 OXFORD ROAD,,READING,RG1 7PJ,5,2025-01-06,Reading,0,0,0,-0.987211,51.4557005
 1376550,Oxford Road Store,Retailers - other,512 OXFORD ROAD,,READING,RG30 1EG,5,2025-02-14,Reading,5,5,5,-1.0020207,51.4583723
-1802922,Oxygen ActivePlay Reading,Restaurant/Cafe/Canteen,8 BRIDGEWATER CLOSE,,READING,RG30 1JT,5,2024-11-14,Reading,5,5,5,-1.0066859,51.4602912
+1802922,Oxygen ActivePlay Reading,Restaurant/Cafe/Canteen,8 BRIDGEWATER CLOSE,,READING,RG30 1JT,5,2026-10-27,Reading,0,5,0,-1.0066859,51.4602912
 1976726,OYE Paitu's Kitchen,Restaurant/Cafe/Canteen,308 OXFORD ROAD,,READING,RG30 1AD,3,2026-06-30,Reading,5,10,10,-0.9947601,51.4566827
 1622242,P&K Cake Creations,Other catering premises,,,,,5,2023-07-12,Reading,0,5,5,,
 1948290,Padel Hub,Retailers - other,4 KENAVON DRIVE,,READING,RG1 3DH,5,2025-09-09,Reading,0,0,5,-0.961521,51.4571246
 1948360,"Paesinos Italian Pizzeria, Roast and Roots, Tokyo Burger",Restaurant/Cafe/Canteen,4 KINGS ROAD,,READING,,AwaitingInspection,,Reading,,,,-0.96585,51.4653692
 1948288,Palace Village Pizza & Peri Peri,Takeaway/sandwich shop,254 KENTWOOD HILL,TILEHURST,READING,RG31 6DP,3,2026-06-19,Reading,10,10,10,-1.0296209,51.4688816
-954030,Palmer Tavern,Pub/bar/nightclub,128 WOKINGHAM ROAD,,READING,RG6 1JL,5,2024-08-09,Reading,0,5,5,-0.9386248,51.4494078
+954030,Palmer Tavern,Pub/bar/nightclub,128 WOKINGHAM ROAD,,READING,RG6 1JL,4,2026-09-22,Reading,5,0,10,-0.9386248,51.4494078
 1976729,Palmora Kitchen,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 1671810,Pan's Pickles,Other catering premises,,,,,5,2025-01-19,Reading,0,0,5,,
 1021281,Papa Gee,Restaurant/Cafe/Canteen,5 PROSPECT STREET,CAVERSHAM,READING,,4,2024-10-29,Reading,5,5,10,-0.972299,51.4679438
@@ -897,6 +902,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 351881,Park Lane Off Licence,Retailers - other,154 PARK LANE,TILEHURST,READING,RG31 4DU,2,2026-06-22,Reading,5,15,10,-1.0470569,51.4508428
 280668,Parkside House,Hospitals/Childcare/Caring Premises,PARKSIDE HOUSE NURSING HOME PARKSIDE ROAD,,READING,RG30 2DB,5,2025-07-14,Reading,0,5,5,,
 280075,Parkside International Hotel,Hotel/bed & breakfast/guest house,72 BATH ROAD,,READING,RG30 2BE,2,2025-12-17,Reading,15,15,10,-0.9993325,51.4476668
+2010403,Parkside Pre-School (part of YMCA Reading),School/college/university,READING YMCA 34 PARKSIDE ROAD,,READING,RG30 2DD,AwaitingInspection,,Reading,,,,-1.0001217,51.4510725
 1576374,Parthian Climbing Reading,Restaurant/Cafe/Canteen,33 BRITTEN ROAD,,READING,RG2 0AU,5,2026-08-14,Reading,5,5,5,-0.9702172,51.4425206
 1613342,Pasta Evangelists,Retailers - other,UNIT 49 MILFORD ROAD,,READING,RG1 8LG,5,2025-05-20,Reading,5,5,5,-0.9816241,51.4622883
 1264993,Pasty Shop at Reading Train station,Takeaway/sandwich shop,FIRST GREAT WESTERN TRAINS READING RAILWAY STATION STATION APPROACH,,READING,RG1 1LZ,5,2025-04-03,Reading,0,0,0,,
@@ -907,7 +913,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1038595,Paya/Korean Krispy,Takeaway/sandwich shop,84 LONDON STREET,,READING,,1,2026-06-17,Reading,15,20,10,-0.9680315,51.4516035
 280413,Pembroke Lodge,Hospitals/Childcare/Caring Premises,PEMBROKE LODGE 32 ALEXANDRA ROAD,,READING,RG1 5PF,4,2026-04-28,Reading,5,5,10,-0.95246917,51.4494034
 280784,Penta Hotel Reading,Hotel/bed & breakfast/guest house,PENTA HOTEL OXFORD ROAD,,READING,RG1 7RH,5,2025-10-29,Reading,5,5,5,,
-1216626,Pepe's Piri Piri,Restaurant/Cafe/Canteen,109B OXFORD ROAD,,READING,RG1 7UD,4,2025-05-24,Reading,5,10,5,-0.9803807,51.4547691
+1216626,Pepe's Piri Piri,Restaurant/Cafe/Canteen,109B OXFORD ROAD,,READING,RG1 7UD,5,2026-10-07,Reading,5,5,0,-0.9803807,51.4547691
 1613338,Perfect Fried Chicken,Takeaway/sandwich shop,158 OXFORD ROAD,,READING,,3,2025-05-27,Reading,10,10,10,-0.9881743,51.4557448
 711962,Peri Peri Chicken Hut,Takeaway/sandwich shop,37 WHITLEY STREET,,READING,RG2 0EG,5,2025-03-17,Reading,0,0,0,-0.9652627,51.4455007
 1827386,Perk Cafe,Restaurant/Cafe/Canteen,100 BROOK DRIVE,,READING,RG2 6UJ,5,2026-06-23,Reading,5,5,5,-0.9849655,51.425828
@@ -955,7 +961,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1587253,Pret A Manger,Restaurant/Cafe/Canteen,211 SHINFIELD ROAD,,READING,RG2 8HA,5,2024-09-19,Reading,5,5,5,-0.945974,51.4275769
 994495,Pret a Manger at Thames Tower,Restaurant/Cafe/Canteen,THAMES TOWER 37-45 STATION ROAD,,READING,,5,2025-12-04,Reading,0,0,0,-0.9726929,51.4580829
 434467,Pret a Manger at The Oracle,Restaurant/Cafe/Canteen,L39 THE LOWER MALL THE ORACLE BRIDGE STREET,,READING,RG1 2AQ,5,2026-06-22,Reading,5,5,5,,
-280618,Prezzo,Restaurant/Cafe/Canteen,GEORGE HOTEL 10-12 KING STREET,,READING,RG1 2HF,5,2024-06-28,Reading,5,5,5,-0.9701369,51.4548161
+280618,Prezzo,Restaurant/Cafe/Canteen,GEORGE HOTEL 10-12 KING STREET,,READING,RG1 2HF,5,2026-06-08,Reading,5,5,0,-0.9701369,51.4548161
 1976716,Prime Seven Mart,Retailers - other,10-12 OXFORD ROAD,,READING,RG1 7LA,4,2026-07-31,Reading,5,5,10,-0.9760731,51.4556037
 280493,Prospect Bowling Club,Pub/bar/nightclub,PROSPECT PARK HONEY END LANE ENTRANCE,,,RG30 4EL,5,2026-04-16,Reading,5,0,5,-1.0147272,51.449146
 1532561,Providence Chapel,Other catering premises,PROVIDENCE CHAPEL 103 OXFORD ROAD,,READING,RG1 7UD,5,2025-05-27,Reading,0,5,5,,
@@ -965,6 +971,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 972189,Puree mobile van,Mobile caterer,O/S 50 BROAD STREET,,READING,RG1 2AA,5,2025-09-18,Reading,5,5,5,-0.9734476,51.4558774
 948088,PureGym,Retailers - other,MILLENNIUM HOUSE 350 BASINGSTOKE ROAD,,READING,,Exempt,,Reading,,,,,
 280276,Purple Turtle,Pub/bar/nightclub,THE PURPLE TURTLE PH 9 GUN STREET,,READING,RG1 2JR,5,2025-07-24,Reading,0,5,0,-0.9728865,51.4539392
+2010398,Pushpa's fusion kitchen,Takeaway/sandwich shop,74 CATHERINE STREET,,READING,RG30 1DG,AwaitingInspection,,Reading,,,,-0.9937293,51.4570875
 280870,Quality Care Providers,Hospitals/Childcare/Caring Premises,51A CIRCUIT LANE SOUTHCOTE READING RG30 3HB,,READING,RG30 3HB,4,2026-07-06,Reading,10,0,5,-1.0067423,51.443081
 1948498,Quality Care Providers,Hospitals/Childcare/Caring Premises,88 NORTHUMBERLAND AVENUE,,READING,RG2 7PP,Exempt,,Reading,,,,-0.9628092,51.438852
 280188,Quattro Restaurant,Restaurant/Cafe/Canteen,14 PROSPECT STREET,CAVERSHAM,READING,RG4 8JG,5,2026-06-19,Reading,5,5,5,-0.9728454,51.4679756
@@ -976,8 +983,8 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1948381,Rancheese,Restaurant/Cafe/Canteen,171 Caversham Road,,Reading Berkshire,RG1 8BB,3,2026-02-10,Reading,10,5,10,-0.9765602,51.4634401
 1988168,Ranikhet Academy Breakfast & After School Club,School/college/university,Spey Road Tilehurst READING,,Berkshire,RG30 4ED,5,2026-09-15,Reading,5,5,5,,
 1948362,Ranjana Foods,Manufacturers/packers,,,,,5,2025-10-30,Reading,0,0,5,,
-1948325,Rap Cafe,Restaurant/Cafe/Canteen,Regus house 200 Brook Drive Green Park,,Reading Berkshire,,1,2025-09-12,Reading,15,10,20,,
-1776114,RCCG Victory at Reading,Other catering premises,553 OXFORD ROAD,,READING,RG30 1HJ,3,2025-04-22,Reading,10,10,10,-1.0009545,51.4577607
+1948325,Rap Cafe,Restaurant/Cafe/Canteen,Regus house 200 Brook Drive Green Park,,Reading Berkshire,,1,2026-09-15,Reading,15,10,20,,
+1776114,RCCG Victory at Reading,Other catering premises,553 OXFORD ROAD,,READING,RG30 1HJ,3,2024-11-03,Reading,10,10,10,-1.0009545,51.4577607
 954026,Readifood,Retailers - other,33 BOULTON ROAD,,READING,RG2 0NH,Exempt,,Reading,,,,-0.9738372,51.4365753
 280453,Reading & District Irish Association,Pub/bar/nightclub,96-104 CHATHAM STREET,,READING,RG1 7HT,5,2026-09-03,Reading,5,5,5,-0.9812919,51.4565125
 1998933,Reading Biscuit Factory,Restaurant/Cafe/Canteen,1A QUEENS WALK,,READING,RG1 7QF,5,2026-08-25,Reading,5,5,5,-0.9775046,51.4550369
@@ -999,7 +1006,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1517561,Reading Railway Club,Pub/bar/nightclub,READING RAILWAY PUB STATION HILL,,READING,RG1 1NB,5,2025-07-31,Reading,5,0,5,,
 280312,Reading School,School/college/university,MAIN HOUSE ERLEIGH ROAD,,READING,RG1 5LW,5,2025-01-16,Reading,5,5,5,-0.9543908,51.4483804
 1130011,Reading Sea Cadets,Restaurant/Cafe/Canteen,BROCK BARRACKS OXFORD ROAD,,READING,RG30 1HW,5,2026-07-27,Reading,0,0,5,-1.0034888,51.4583758
-1976741,Reading Socialeyes,Other catering premises,ST LUKES CHURCH ERLEIGH ROAD,,READING,,AwaitingInspection,,Reading,,,,,
+1976741,Reading Socialeyes,Other catering premises,ST LUKES CHURCH ERLEIGH ROAD,,READING,,5,2026-09-25,Reading,0,0,0,,
 1948327,Reading Supermarket,Retailers - supermarkets/hypermarkets,437 OXFORD ROAD,,READING,,4,2025-09-30,Reading,10,5,5,,
 1990188,Reading Synagogue,Other catering premises,READING HEBREW CONGREGATION CHURCH GOLDSMID ROAD,,READING,RG1 7YB,Exempt,,Reading,,,,,
 406951,Reading Tandoori,Restaurant/Cafe/Canteen,262-264 OXFORD ROAD,,READING,,4,2026-04-07,Reading,5,10,5,-0.9932554,51.4563821
@@ -1007,23 +1014,24 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1130017,Ready Tasty Fish & Chips,Takeaway/sandwich shop,112 HENLEY ROAD,CAVERSHAM,READING,RG4 6DH,1,2026-02-19,Reading,10,10,20,-0.9592891,51.4709221
 1046978,Re-Charge Refectory,School/college/university,THAMES VALLEY UNIVERSITY KINGS ROAD,,READING,RG1 4HJ,5,2025-01-21,Reading,5,5,5,-0.9533088,51.4541615
 465833,Red Balloon Learner Centre,School/college/university,220 KINGS ROAD,,READING,RG1 4JJ,5,2026-02-05,Reading,5,5,5,-0.9575966,51.4535703
-1265040,Red Onion Tandoori,Takeaway/sandwich shop,ROYALS FISH & CHIPS 234C SHINFIELD ROAD,,READING,RG2 8EX,5,2025-03-27,Reading,5,5,5,-0.9466941,51.4276751
 1559155,RG Bread,Retailers - other,10 PROSPECT STREET,CAVERSHAM,READING,,5,2024-07-24,Reading,5,5,5,-0.972891,51.4678681
 1990135,Richardphysique,Retailers - other,,,,,AwaitingInspection,,Reading,,,,,
 280452,Richfields Deli and Grill,Restaurant/Cafe/Canteen,211 CAVERSHAM ROAD,,READING,RG1 8BB,3,2026-03-02,Reading,10,10,10,-0.9773357,51.4641663
+1706094,Rio Grande Meat Market,Retailers - other,276 OXFORD ROAD,,READING,RG30 1AD,AwaitingInspection,,Reading,,,,-0.993671,51.4564666
 1948331,Rio's Kitchen,Manufacturers/packers,,,,,5,2025-09-19,Reading,5,5,5,,
 1985929,RISC World and Refills Shop,Retailers - other,35-39 LONDON STREET,,READING,,AwaitingInspection,,Reading,,,,-0.9679604,51.4528438
 1364560,Rise Bakehouse,Other catering premises,4 CHATHAM STREET,,READING,,4,2025-05-10,Reading,5,10,5,,
 1762487,"River Academy, Maiden Erlegh Trust",School/college/university,7 RICHFIELD AVENUE,,,RG1 8EQ,5,2026-04-24,Reading,5,5,5,-0.9879576,51.4646333
 1648331,Rivermead Leisure Centre,Other catering premises,RIVERMEAD LEISURE COMPLEX RICHFIELD AVENUE,,READING,RG1 8EQ,5,2025-08-27,Reading,0,5,0,-0.9830511,51.4651811
 1969186,Riverspice Restaurant,Restaurant/Cafe/Canteen,206 CAVERSHAM ROAD,,READING,RG1 8AZ,4,2026-08-18,Reading,5,10,5,-0.9767567,51.4649525
-280616,Riverview Care Centre,Hospitals/Childcare/Caring Premises,THE DEVONSHIRE RODWAY ROAD,TILEHURST,READING,RG30 6TP,4,2025-12-16,Reading,,,,,
+280616,Riverview Care Centre,Hospitals/Childcare/Caring Premises,THE DEVONSHIRE RODWAY ROAD,TILEHURST,READING,RG30 6TP,4,2026-09-23,Reading,5,5,10,,
 1990157,Robin's Caribbean Kitchen,Mobile caterer,Chichester Road Tilehurst,,Reading Berkshire,RG30 4XE,4,2023-03-21,Reading,5,5,10,,
+2010415,Rodeo Coffee,Restaurant/Cafe/Canteen,17-27 STATION ROAD,,READING,RG1 1LG,AwaitingInspection,,Reading,,,,-0.9724049,51.4574509
 1714713,Rodeo Doughnuts,Manufacturers/packers,UNIT 52 AND UNIT 54 ROBERT CORT INDUSTRIAL ESTATE BRITTEN ROAD,,READING,RG2 0AU,3,2026-08-05,Reading,5,10,10,,
 1990151,Rodeo Doughnuts,Manufacturers/packers,UNIT 52 ROBERT CORT INDUSTRIAL ESTATE BRITTEN ROAD,,READING,RG2 0AU,5,2026-08-03,Reading,5,5,5,-0.9698275,51.4415126
 1495638,Rodeo Doughnuts,Takeaway/sandwich shop,VUE CINEMA THE RIVERSIDE THE ORACLE BRIDGE STREET,,READING,RG1 2AG,5,2026-07-09,Reading,0,0,5,-0.9712956,51.4536465
 280186,Rontec Watford Ltd,Retailers - other,SNAX24 RICHFIELD AVENUE,,READING,RG1 8EQ,5,2024-02-28,Reading,0,5,5,-0.9784933,51.4645451
-1802911,Roosters Fried n Grill,Takeaway/sandwich shop,Roosters 217 London Road,,Reading,RG1 3NY,AwaitingInspection,,Reading,,,,-0.9482197,51.4532977
+1802911,Roosters Fried n Grill,Takeaway/sandwich shop,Roosters 217 London Road,,Reading,RG1 3NY,2,2025-10-28,Reading,15,15,10,-0.9482197,51.4532977
 280815,Roosters Piri Piri,Restaurant/Cafe/Canteen,11-12 WEST STREET,,READING,RG1 1TT,5,2025-09-05,Reading,5,5,5,-0.9755023,51.4560303
 1827401,Rosa's Thai,Restaurant/Cafe/Canteen,UNIT 1 JACKSONS CORNER 1-9 KINGS ROAD,,READING,RG1 3EY,5,2025-03-17,Reading,0,5,5,,
 1194596,Rose Garden Early Years Centre,Hospitals/Childcare/Caring Premises,5 CHRISTCHURCH GARDENS,,READING,RG2 7AH,4,2024-12-17,Reading,5,10,5,-0.9644754,51.4434166
@@ -1042,6 +1050,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1948369,Sabor & Joy Bakery,Other catering premises,,,,,4,2026-02-03,Reading,10,5,5,,
 280482,Sadaka at Fairview Youth & Community Centre,Other catering premises,FAIRVIEW YOUTH & COMMUNITY CENTRE GEORGE STREET,,READING,,4,2024-10-26,Reading,5,5,10,,
 1265000,Saffron Alley,Distributors/Transporters,46-48 PORTMAN ROAD,,READING,RG30 1EA,2,2026-09-01,Reading,,,,-1.0036004,51.4618476
+2010408,Saima's Kitchen,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 1827403,Sainsbury's,Retailers - supermarkets/hypermarkets,17-27 STATION ROAD READING,,,RG1 1LG,5,2025-03-10,Reading,0,0,0,-0.9724049,51.4574509
 280629,Sainsbury's,Retailers - supermarkets/hypermarkets,52-55 FRIAR STREET,,READING,RG1 1DX,4,2025-01-29,Reading,0,10,5,-0.9751758,51.4571155
 280443,Sainsbury's,Retailers - supermarkets/hypermarkets,7-8 BROAD STREET,,READING,RG1 2BH,5,2025-04-10,Reading,0,5,0,-0.9705346,51.4554922
@@ -1049,7 +1058,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1364565,Salma's Cake Time,Other catering premises,,,,,5,2025-01-28,Reading,0,0,0,,
 1762484,Salt & Smash,Restaurant/Cafe/Canteen,60 CHRISTCHURCH ROAD,,READING,RG2 7AZ,4,2026-04-14,Reading,5,10,5,-0.9559268,51.4428732
 1288447,Sam 99p,Retailers - other,118-119 FRIAR STREET,,READING,RG1 1EP,3,2025-04-10,Reading,5,10,10,-0.9740555,51.4563683
-1059572,Samba's Kitchen,Mobile caterer,173 CARDIFF ROAD,,READING,RG1 8HD,3,2025-02-25,Reading,10,5,10,-0.985444,51.4614042
+1059572,Samba's Kitchen,Mobile caterer,173 CARDIFF ROAD,,READING,RG1 8HD,3,2026-09-29,Reading,10,10,10,-0.985444,51.4614042
 280925,Sambuca Off Licence,Retailers - other,87 WOKINGHAM ROAD,,READING,RG6 1LH,4,2025-01-06,Reading,0,5,10,-0.9369013,51.4486458
 1998925,Sambucha Kombucha,Takeaway/sandwich shop,15 SWANSEA ROAD,,READING,RG1 8EY,AwaitingInspection,,Reading,,,,-0.9778229,51.4610412
 491670,Sams Wraps Mobile Van,Mobile caterer,87-88 BROAD STREET,,READING,RG1 2AP,4,2025-08-09,Reading,,,,-0.9740303,51.455496
@@ -1064,14 +1073,14 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1948492,Sarvana Cooks,Other catering premises,,,,,5,2026-03-27,Reading,5,5,5,,
 1265037,Saucey Lady,Manufacturers/packers,,,,,5,2026-02-10,Reading,0,0,5,,
 954036,Savers,Retailers - other,4-5 ST MARYS BUTTS,,READING,RG1 2LN,Exempt,,Reading,,,,-0.9753815,51.4549952
-280908,Sea Masters Fish & Chips at Meadway Precinct,Takeaway/sandwich shop,6 MEADWAY PRECINCT HONEY END LANE,,READING,RG30 4AA,AwaitingInspection,,Reading,,,,-1.017291,51.449716
+2010399,Seamaster fish and chips,Takeaway/sandwich shop,6 Meadway Precinct Tilehurst READING,,Berkshire,RG3 4AA,5,2026-10-20,Reading,0,5,5,,
 1725839,Seasons Afro Caribbean,Takeaway/sandwich shop,375 OXFORD ROAD,,READING,RG30 1HA,5,2024-07-13,Reading,5,5,5,-0.9948676,51.4563779
 1834121,Seewoo (Reading) Ltd,Retailers - supermarkets/hypermarkets,15 CRADOCK ROAD,,READING,RG2 0JT,4,2025-05-07,Reading,5,5,10,-0.975005,51.4383929
 1976737,Seixal Summer Club,Pub/bar/nightclub,THE ORACLE BRIDGE STREET,,READING,,AwaitingInspection,,Reading,,,,,
 1948364,Selekt Chicken,Takeaway/sandwich shop,221 LONDON ROAD,,READING,RG1 3NY,3,2025-11-18,Reading,10,10,10,-0.9480892,51.4533415
 1734387,Seoul Plaza,Retailers - other,6-7 ST MARYS BUTTS,,READING,RG1 2LN,5,2024-06-13,Reading,0,5,0,-0.9753815,51.4549952
 1340630,Seven Trees Cider,Manufacturers/packers,,,,,5,2025-08-20,Reading,0,0,5,,
-1976770,Shah's Halal Food Reading,Restaurant/Cafe/Canteen,33 OXFORD ROAD,,READING,RG1 7QG,AwaitingInspection,,Reading,,,,-0.9763416,51.4551834
+1976770,Shah's Halal Food Reading,Restaurant/Cafe/Canteen,33 OXFORD ROAD,,READING,RG1 7QG,4,2026-09-29,Reading,10,5,5,-0.9763416,51.4551834
 1976708,Shake Shack,Restaurant/Cafe/Canteen,121-122 BROAD STREET,,READING,RG1 2BD,4,2026-07-23,Reading,10,5,5,-0.9712873,51.455301
 434495,Shapla Tandoori,Takeaway/sandwich shop,248 SHINFIELD ROAD,,READING,RG2 8EY,3,2026-05-06,Reading,10,10,10,-0.9470085,51.4265089
 1622231,Shawarma Reading,Restaurant/Cafe/Canteen,13 WEST STREET,,READING,RG1 1TT,4,2026-08-26,Reading,5,10,5,-0.9754607,51.455958
@@ -1080,16 +1089,15 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280997,Shell Thames Valley Service Station,Retailers - other,THAMES VALLEY SERVICE STATION GEORGE STREET,CAVERSHAM,READING,RG4 8DH,5,2025-07-16,Reading,5,5,5,,
 280951,Shinfield Local,Retailers - other,252 SHINFIELD ROAD,,READING,RG2 8EY,4,2024-12-21,Reading,0,5,10,-0.9471986,51.4263758
 1948316,Shirdi Saibaba Temple & Community,Other catering premises,44 WEST STREET,,READING,RG1 1TZ,1,2026-07-02,Reading,10,15,20,-0.9762765,51.456163
-1130002,Shivayaa Budgens,Retailers - supermarkets/hypermarkets,163-165 CAVERSHAM ROAD,,READING,,3,2025-05-17,Reading,10,10,10,-0.9764627,51.4632954
+1130002,Shivayaa Budgens,Retailers - supermarkets/hypermarkets,163-165 CAVERSHAM ROAD,,READING,,3,2026-09-14,Reading,10,10,10,-0.9764627,51.4632954
 1990748,Show Self,Retailers - other,112 NORTHUMBERLAND AVENUE,,READING,RG2 7PP,AwaitingInspection,,Reading,,,,-0.9628719,51.4379894
 1695827,Shruti's Bakes,Other catering premises,,,,,5,2025-01-15,Reading,0,5,0,,
 1587249,Signature at Caversham,Hospitals/Childcare/Caring Premises,2 WILLOW VIEW,CAVERSHAM,READING,RG4 6LB,5,2026-09-17,Reading,5,5,5,-0.9505988,51.4710437
 1948284,Sip and Spin,Pub/bar/nightclub,ELDON ARMS PH 19 ELDON TERRACE,,READING,RG1 4DX,5,2025-09-10,Reading,0,0,5,-0.9574099,51.4529212
-2001129,Sip N Vape,Retailers - other,53 DONKIN HILL,CAVERSHAM,READING,RG4 5DG,AwaitingInspection,,Reading,,,,-0.9600089,51.4702901
 1725834,Siren City Bars,Other catering premises,UNIT 1 1 FRIARS WALK,,READING,RG1 1HP,3,2025-06-19,Reading,10,10,10,-0.9744226,51.4569191
 280470,Siri Guru Singh Sabha Gurdwara,Other catering premises,SIKH TEMPLE 30A CUMBERLAND ROAD,,READING,RG1 3LB,5,2026-07-28,Reading,5,5,5,-0.9490642,51.4541235
 1948419,Sizzling Kebab,Restaurant/Cafe/Canteen,531 OXFORD ROAD,,READING,RG30 1HJ,5,2026-04-28,Reading,,,,-1.0008827,51.4577511
-1998934,Skipper's Fish and Chips,Takeaway/sandwich shop,579 BASINGSTOKE ROAD,,READING,RG2 0SJ,AwaitingInspection,,Reading,,,,-0.9689863,51.4206977
+1998934,Skipper's Fish and Chips,Takeaway/sandwich shop,579 BASINGSTOKE ROAD,,READING,RG2 0SJ,3,2026-09-29,Reading,5,10,10,-0.9689863,51.4206977
 1418658,SKVP Reading,Other catering premises,97 KINGS ROAD,,READING,RG1 3DD,3,2026-06-30,Reading,5,10,10,-0.9633042,51.4550956
 1769959,Slamburger,Restaurant/Cafe/Canteen,60 CHRISTCHURCH ROAD,,READING,RG2 7AZ,4,2026-04-14,Reading,5,10,5,-0.9559268,51.4428732
 1663390,Sloth Coffee Van - Selina Lee,Mobile caterer,23 BATTLE PLACE,,READING,RG30 1AJ,5,2024-04-04,Reading,5,5,5,-0.9961832,51.4573476
@@ -1103,7 +1111,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1948295,Sodexo,Other catering premises,350 BROOK DRIVE,,READING,RG2 6UU,5,2025-06-26,Reading,0,0,0,-0.991022,51.423141
 280086,Sodexo at Gillette,Restaurant/Cafe/Canteen,452 BASINGSTOKE ROAD,,READING,RG2 0QE,5,2025-03-14,Reading,0,0,0,-0.9722401,51.4288912
 1948428,Soul Chill Cafe,Restaurant/Cafe/Canteen,67 LONDON STREET,,READING,RG1 4QA,3,2026-03-06,Reading,10,10,10,-0.9677063,51.4519873
-1488694,Source Cafe @ Three Green Park,Restaurant/Cafe/Canteen,450 LONGWATER AVENUE,,READING,RG2 6GF,5,2024-11-26,Reading,0,5,5,-0.9944901,51.4226141
+1488694,Source Cafe @ Three Green Park,Restaurant/Cafe/Canteen,450 LONGWATER AVENUE,,READING,RG2 6GF,5,2026-10-20,Reading,0,5,5,-0.9944901,51.4226141
 1841346,"South Reading Over 50s Lunch Club, Whitley Wood Community Centre",Other catering premises,WHITLEY WOOD COMMUNITY CENTRE 28-35 LEXINGTON GROVE,,READING,RG2 8UG,5,2025-01-15,Reading,0,5,5,-0.9626604,51.4132319
 280149,South Street Arts Centre Bar,Pub/bar/nightclub,21 SOUTH STREET,,READING,RG1 4QU,5,2025-05-14,Reading,0,5,5,-0.9662586,51.4523702
 1948282,South Whitley Superstore,Retailers - supermarkets/hypermarkets,236 NORTHUMBERLAND AVENUE,,READING,RG2 7QA,3,2025-08-08,Reading,10,10,10,-0.9627342,51.432638
@@ -1122,7 +1130,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1383957,Spitiko Greek Restaurant,Restaurant/Cafe/Canteen,6 PROSPECT STREET,CAVERSHAM,READING,RG4 8JG,3,2025-06-25,Reading,10,10,10,-0.9729646,51.4677968
 1714716,Sports Direct,Retailers - other,61-64 BROAD STREET,,READING,RG1 2AJ,Exempt,,Reading,,,,-0.9745446,51.4557342
 1948404,Spud Kingz,Mobile caterer,UNIT 5 READING GATE RETAIL PARK,,READING,RG2 0QG,3,2026-01-14,Reading,10,10,5,-0.9800929,51.4224407
-1990143,Spudski,Mobile caterer,GRAHAMS CRADOCK ROAD,,READING,RG2 0JT,AwaitingInspection,,Reading,,,,,
+1990143,Spudski,Mobile caterer,GRAHAMS CRADOCK ROAD,,READING,RG2 0JT,5,2025-04-29,Reading,5,0,0,,
 1976747,Sri Sadguru Seva,Restaurant/Cafe/Canteen,ALL SAINTS CHURCH DOWNSHIRE SQUARE,,READING,RG1 6NN,5,2026-08-06,Reading,0,5,0,,
 1990136,SS Groceries,Retailers - other,28 PROSPECT STREET,CAVERSHAM,READING,RG4 8JG,AwaitingInspection,,Reading,,,,-0.9723695,51.4683276
 1990137,SS Groceries,Retailers - other,85 CRESSINGHAM ROAD,,READING,RG2 7RX,AwaitingInspection,,Reading,,,,-0.9578804,51.4329097
@@ -1175,13 +1183,14 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1959936,Swarasya Authentic Indian,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 280204,Sweeney & Todd,Restaurant/Cafe/Canteen,SWEENEY & TODD 10 CASTLE STREET,,READING,RG1 7RD,5,2024-11-19,Reading,5,5,5,-0.9744883,51.4537465
 1321111,Sweet Cloud Cakery,Other catering premises,50 CORWEN ROAD,TILEHURST,READING,RG30 4SJ,5,2025-01-22,Reading,0,0,0,-1.0335805,51.4545451
-1998914,Sweet Pea Childcare,Hospitals/Childcare/Caring Premises,,,,,AwaitingInspection,,Reading,,,,,
+1998914,Sweet Pea Childcare,Hospitals/Childcare/Caring Premises,,,,,5,2026-10-16,Reading,5,5,0,,
 1288450,Sweets and More,Other catering premises,,,,,3,2025-07-29,Reading,5,10,10,,
 1998929,Sweetthingsbylucy,Other catering premises,3 HADLEIGH RISE,CAVERSHAM,READING,RG4 6RW,AwaitingInspection,,Reading,,,,-0.9490524,51.4822147
 1750453,Taco Bell,Restaurant/Cafe/Canteen,207-211 BROAD STREET,,READING,RG1 7QH,4,2026-06-30,Reading,5,10,5,-0.9753815,51.4549952
 1948314,Take Your Time,Restaurant/Cafe/Canteen,UNIT 5A FIRST FLOOR THE VILLAGE,,READING,RG1 2HG,3,2025-11-18,Reading,10,10,10,,
 1827384,Tanatan,Restaurant/Cafe/Canteen,45 LONDON STREET,,READING,,4,2026-04-15,Reading,5,10,5,-0.9680235,51.4526016
 1948378,Tania Baked Goods,Other catering premises,,,,,5,2026-01-08,Reading,0,5,0,,
+2010414,tarCurry,Takeaway/sandwich shop,234C Shinfield Road,,Reading Berkshire,RG2 8EX,AwaitingInspection,,Reading,,,,-0.9466941,51.4276751
 1581358,Tariq Halal Meats Reading,Retailers - other,477 OXFORD ROAD,,READING,RG30 1HF,5,2025-08-20,Reading,5,0,5,-0.9990215,51.4572947
 1750456,Taste of Malabar,Other catering premises,,,,,4,2024-10-04,Reading,5,5,10,,
 1948494,Taste5,Restaurant/Cafe/Canteen,132 FRIAR STREET,,READING,RG1 1EP,5,2026-06-10,Reading,5,5,5,-0.973547,51.4565797
@@ -1233,7 +1242,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280983,The Bite Sandwich and Coffee Bar at Milestone Way precinct,Takeaway/sandwich shop,6 MILESTONE WAY PRECINCT MILESTONE WAY,CAVERSHAM,READING,RG4 8XW,5,2026-08-14,Reading,5,5,5,-0.9624537,51.4831075
 280123,The Black Horse,Pub/bar/nightclub,THE BLACK HORSE PH 16 KIDMORE END ROAD,EMMER GREEN,READING,RG4 8SE,5,2025-08-04,Reading,0,0,0,-0.9636116,51.4834864
 280124,The Blagrave Arms,Pub/bar/nightclub,BLAGRAVE ARMS PH 35 BLAGRAVE STREET,,READING,RG1 1PW,5,2025-08-21,Reading,0,0,0,-0.970704,51.4575618
-1003427,The Botanist,Pub/bar/nightclub,1-5 KING STREET,,READING,RG1 2HB,5,2024-08-02,Reading,5,5,5,-0.9695693,51.4551511
+1003427,The Botanist,Pub/bar/nightclub,1-5 KING STREET,,READING,RG1 2HB,5,2026-07-06,Reading,0,5,0,-0.9695693,51.4551511
 1948340,The Bounce Park Reading,Restaurant/Cafe/Canteen,RIVER ACADEMY SCHOOL 7 RICHFIELD AVENUE,,READING,RG1 8EQ,5,2026-02-17,Reading,0,0,0,-0.9879576,51.4646333
 280277,The Boundary,Pub/bar/nightclub,THE BOUNDARY 21-23 ST MARYS BUTTS,,READING,RG1 2LN,5,2026-01-20,Reading,5,5,5,-0.9748336,51.4543969
 1802921,The Burger Society,Other catering premises,BLUE COLLAR CORNER 15 HOSIER STREET,,READING,RG1 7QL,5,2025-03-02,Reading,5,5,5,,
@@ -1252,7 +1261,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1321093,The Coffee Van - Queen's Walk,Mobile caterer,O/S 1A QUEENS WALK,,READING,RG1 7QF,5,2025-01-29,Reading,0,0,5,-0.9775046,51.4550369
 1205037,The Coffee Van - Reading Station Pitch 1,Mobile caterer,TROOPER POTTS WAY,,READING,RG1 8AL,5,2025-09-30,Reading,0,5,0,,
 1265018,The Collective Caversham Ltd,Retailers - other,25 CHURCH ROAD,CAVERSHAM,READING,RG4 7AA,4,2026-06-19,Reading,5,10,5,-0.9779035,51.4677501
-1998928,The Continental and 7seas Marketplace,Retailers - other,136-137 FRIAR STREET,,READING,RG1 1EX,AwaitingInspection,,Reading,,,,-0.9731735,51.4565494
+1998928,The Continental and 7seas Marketplace,Retailers - other,136-137 FRIAR STREET,,READING,RG1 1EX,5,2026-10-13,Reading,0,5,5,-0.9731735,51.4565494
 1998924,The Count Me In Collective,Pub/bar/nightclub,120 CASTLE STREET,,READING,RG1 7RJ,AwaitingInspection,,Reading,,,,-0.9789904,51.4519244
 280091,The Crescent Hotel,Hotel/bed & breakfast/guest house,35 COLEY AVENUE,,READING,RG1 6LL,5,2023-05-30,Reading,5,5,5,-0.9832342,51.4494076
 1948385,The Crown Caversham,Pub/bar/nightclub,THE CROWN 3 BRIDGE STREET,CAVERSHAM,READING,RG4 8AA,5,2026-03-02,Reading,0,0,0,,
@@ -1273,8 +1282,8 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280190,The Gorge Cafe,Restaurant/Cafe/Canteen,227 CAVERSHAM ROAD,,READING,RG1 8BB,4,2025-10-30,Reading,5,10,5,-0.9778142,51.464656
 656349,The Greyfriar,Pub/bar/nightclub,THE GREYFRIAR 53 GREYFRIARS ROAD,,READING,RG1 1PA,3,2025-05-02,Reading,5,10,10,-0.9756869,51.4587206
 280117,The Griffin,Pub/bar/nightclub,THE GRIFFIN PH 10-12 CHURCH ROAD,CAVERSHAM,READING,RG4 7AD,5,2025-09-11,Reading,5,5,5,-0.9773372,51.4673225
-905353,The Grill Heist / RIZOUQ,Takeaway/sandwich shop,117 WOKINGHAM ROAD,,READING,,AwaitingInspection,,Reading,,,,-0.9362489,51.4482353
-728854,The Grove Cafe at Meadway Precinct,Restaurant/Cafe/Canteen,21 MEADWAY PRECINCT HONEY END LANE,,READING,RG30 4AA,5,2024-10-03,Reading,5,5,5,-1.017291,51.449716
+905353,The Grill Heist / RIZOUQ,Takeaway/sandwich shop,117 WOKINGHAM ROAD,,READING,,3,2025-05-16,Reading,10,10,10,-0.9362489,51.4482353
+728854,The Grove Cafe at Meadway Precinct,Restaurant/Cafe/Canteen,17/18 MEADWAY PRECINCT TILEHURST,,READING,,5,2026-10-20,Reading,5,5,5,,
 1990743,The Halal Meat House,Retailers - other,33 RUSSELL STREET,,READING,,AwaitingInspection,,Reading,,,,,
 281008,The Hexagon,Restaurant/Cafe/Canteen,THE HEXAGON QUEENS WALK,,READING,RG1 7UA,5,2025-03-07,Reading,0,5,0,,
 1827377,The Hill Primary School (Breakfast & Afterschool Club),Other catering premises,THE HILL PRIMARY SCHOOL PEPPARD ROAD,EMMER GREEN,READING,RG4 8TU,4,2025-02-05,Reading,5,5,10,,
@@ -1299,11 +1308,11 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280081,The Moderation,Pub/bar/nightclub,THE MODERATION PH 213 CAVERSHAM ROAD,,READING,RG1 8BB,3,2026-03-14,Reading,5,10,10,-0.977551,51.4641951
 1948349,The Monks Retreat,Pub/bar/nightclub,THE MONKS RETREAT PH 163 FRIAR STREET,,READING,RG1 1HE,4,2026-07-06,Reading,5,10,5,-0.9706715,51.4564465
 280136,The Nags Head,Pub/bar/nightclub,NAGS HEAD PH 5 RUSSELL STREET,,READING,RG1 7XD,4,2025-08-05,Reading,5,10,5,-0.9822134,51.4545512
-1976728,The National Meat Halal,Retailers - other,117-119 OXFORD ROAD READING,,,RG1 7UH,5,2026-04-10,Reading,5,5,5,-0.9809585,51.4548551
+1976728,The National Halal Meat,Retailers - other,117-119 OXFORD ROAD READING,,,RG1 7UH,5,2026-04-10,Reading,5,5,5,-0.9809585,51.4548551
 280520,The New Red Lantern,Takeaway/sandwich shop,6 NORCOT ROAD,TILEHURST,READING,RG30 6BU,4,2026-05-01,Reading,,,,-1.035614,51.4604966
 1948434,The Nook,Restaurant/Cafe/Canteen,17-19 VALPY STREET,,READING,,5,2026-03-06,Reading,0,5,5,-0.9696829,51.4575259
 558985,The Oasis,Restaurant/Cafe/Canteen,THE OASIS 21 BAKER STREET,,READING,RG1 7XT,5,2025-07-04,Reading,5,5,5,-0.9797522,51.4532619
-550221,The Original Gourmet Burger Co.,Restaurant/Cafe/Canteen,127 WOKINGHAM ROAD,,READING,RG6 1LH,4,2024-08-25,Reading,5,10,5,-0.9358238,51.4479527
+550221,The Original Gourmet Burger Co.,Restaurant/Cafe/Canteen,127 WOKINGHAM ROAD,,READING,RG6 1LH,5,2026-03-03,Reading,5,5,5,-0.9358238,51.4479527
 280785,The Outlook,Pub/bar/nightclub,THE OUTLOOK PH 76-78 KINGS ROAD,,READING,RG1 3BJ,5,2025-02-18,Reading,0,5,0,-0.9653449,51.4545922
 1834115,The Pantry @ St Barnabas,Other catering premises,ST BARNABAS CHURCH ELM ROAD,,READING,,4,2025-04-03,Reading,5,10,5,,
 280664,The Pantry Café & Kitchen at Museum and Town Hall,Restaurant/Cafe/Canteen,READING MUSEUM SERVICE TOWN HALL BLAGRAVE STREET,,READING,RG1 1QH,5,2025-09-11,Reading,5,5,5,-0.9698647,51.4571228
@@ -1317,9 +1326,9 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1130016,The Queens Head,Pub/bar/nightclub,54 CHRISTCHURCH ROAD,,READING,,1,2026-07-21,Reading,15,15,20,-0.9565312,51.443045
 1959933,The Quiet Ritual,Mobile caterer,38 BEDFORD ROAD,,READING,RG1 7HS,AwaitingInspection,,Reading,,,,-0.9834918,51.4566125
 1948424,The Railway Tavern,Pub/bar/nightclub,THE GATEWAY PH 31 GREYFRIARS ROAD,,READING,RG1 1PA,4,2026-06-04,Reading,5,10,5,-0.9758315,51.4580474
-280880,The Range,Retailers - other,UNIT 3 VASTERN COURT CAVERSHAM ROAD,,READING,RG1 8AL,5,2024-10-27,Reading,0,5,5,-0.9735381,51.4608329
+280880,The Range,Retailers - other,UNIT 3 VASTERN COURT CAVERSHAM ROAD,,READING,RG1 8AL,AwaitingInspection,,Reading,,,,-0.9735381,51.4608329
 1762491,The Range,Retailers - other,UNIT 6A BRUNEL RETAIL PARK ROSE KILN LANE,,READING,RG2 0HS,5,2024-10-27,Reading,5,5,5,-0.973436,51.435223
-1059574,The Red Cow,Pub/bar/nightclub,RED COW PH 56 STAR ROAD,CAVERSHAM,READING,RG4 5BE,3,2025-01-22,Reading,10,10,5,-0.9577526,51.4663225
+1059574,The Red Cow,Pub/bar/nightclub,RED COW PH 56 STAR ROAD,CAVERSHAM,READING,RG4 5BE,4,2026-03-11,Reading,5,5,10,-0.9577526,51.4663225
 491641,The Retreat,Pub/bar/nightclub,THE RETREAT PH 8 ST JOHNS STREET,,READING,RG1 4EH,5,2025-07-16,Reading,0,0,0,-0.9607538,51.4533286
 1739956,The Rising Sun,Pub/bar/nightclub,16 CASTLE STREET,,READING,RG1 7RD,5,2026-08-24,Reading,5,5,0,-0.9749662,51.4536158
 1990097,The Rising Sun Arts Centre,Restaurant/Cafe/Canteen,RISING SUN ARTS CENTRE 26-30 SILVER STREET,,READING,RG1 2ST,Exempt,,Reading,,,,-0.9666798,51.4496494
@@ -1349,11 +1358,11 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1979468,The Turks Head,Pub/bar/nightclub,THE TURKS HEAD PH 31 LONDON ROAD,,READING,RG1 5BJ,AwaitingInspection,,Reading,,,,-0.965644,51.4509081
 1948376,The Veg Box,Retailers - other,44 WEST STREET,,READING,RG1 1TZ,2,2026-01-06,Reading,15,15,10,-0.9762765,51.456163
 280371,The Victoria,Pub/bar/nightclub,THE VICTORIA PH 1 NORCOT ROAD,TILEHURST,READING,RG30 6BP,5,2025-05-23,Reading,5,5,5,-1.0356901,51.4609827
-867824,The Victoria Cross,Pub/bar/nightclub,THE VICTORIA CROSS PH BASINGSTOKE ROAD,,READING,RG2 0NT,5,2025-06-27,Reading,5,0,0,-0.9694824,51.4329591
+867824,The Victoria Cross,Pub/bar/nightclub,350 BASINGSTOKE ROAD,,READING,RG2 0NT,5,2025-06-27,Reading,5,0,0,-0.9693995,51.4330475
 280360,The Vue Cinema at The Oracle,Retailers - other,VUE CINEMA THE RIVERSIDE THE ORACLE BRIDGE STREET,,READING,RG1 2AG,5,2025-10-30,Reading,0,0,5,-0.9712956,51.4536465
-1979466,The Water Tower,Pub/bar/nightclub,THE WATER TOWER PH 160 PARK LANE,TILEHURST,READING,RG31 4DU,AwaitingInspection,,Reading,,,,-1.0472066,51.4505653
+1979466,The Water Tower,Pub/bar/nightclub,THE WATER TOWER PH 160 PARK LANE,TILEHURST,READING,RG31 4DU,4,2026-09-17,Reading,10,5,0,-1.0472066,51.4505653
 1776112,The Way Ministry Reading,Other catering premises,FAIRVIEW CENTRE 90B GREAT KNOLLYS STREET,,READING,RG1 7HL,5,2025-06-08,Reading,5,5,5,-0.9824218,51.4581319
-728852,The White Eagle,Pub/bar/nightclub,THE NEW INN PH 344A OXFORD ROAD,,READING,RG30 1AQ,5,2026-04-18,Reading,5,5,5,-0.9971092,51.4572064
+728852,The White Eagle,Pub/bar/nightclub,344A OXFORD ROAD,,READING,RG30 1AQ,5,2026-04-18,Reading,5,5,5,-0.9971092,51.4572064
 280300,The White Horse,Pub/bar/nightclub,WHITE HORSE PH 9 KIDMORE END ROAD,EMMER GREEN,READING,RG4 8SD,5,2025-07-29,Reading,5,5,5,-0.9638064,51.4831554
 280539,Thomas Franks at Chiltern Nursery & Training College,School/college/university,20 PEPPARD ROAD,CAVERSHAM,READING,RG4 8JZ,5,2025-11-05,Reading,0,5,5,-0.9674037,51.4735491
 280684,Thomas Franks at Leighton Park School,School/college/university,LEIGHTON PARK SCHOOL SHINFIELD ROAD,,READING,RG2 7ED,5,2025-01-07,Reading,0,0,5,-0.9472225,51.4372294
@@ -1377,6 +1386,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280057,Today's Store,Retailers - other,1 PRINCE OF WALES AVENUE,,READING,RG30 2UR,5,2025-01-28,Reading,5,0,5,-0.9978299,51.4545239
 1671805,Together for Mental Wellbeing,Hospitals/Childcare/Caring Premises,1A RUPERT SQUARE ORTS ROAD,,READING,RG1 3HE,Exempt,,Reading,,,,,
 1990144,Tokyo,Pub/bar/nightclub,WALKABOUT INN PH WISTON TERRACE,,READING,RG1 1DG,AwaitingInspection,,Reading,,,,-0.9708724,51.4571137
+2010396,Tokyoyaki,Mobile caterer,FLAT 25 KENNET HOUSE 80 KINGS ROAD,,READING,RG1 3BJ,AwaitingInspection,,Reading,,,,-0.9647687,51.454614
 384193,Tops Pizza,Takeaway/sandwich shop,10 WOKINGHAM ROAD,,READING,RG6 1JG,5,2026-07-27,Reading,5,5,5,-0.9482619,51.4527136
 1298311,Tortilla Reading,Restaurant/Cafe/Canteen,4-5 BROAD STREET,,READING,RG1 2BH,5,2026-06-15,Reading,5,5,0,-0.9703064,51.4554002
 1656117,Traditional Romanesc,Restaurant/Cafe/Canteen,146-148 CHATHAM STREET,,READING,RG1 7HT,3,2025-09-24,Reading,10,10,10,-0.9834338,51.4562117
@@ -1393,7 +1403,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 799841,Turkish Grill at Milestone Way Precinct,Restaurant/Cafe/Canteen,13 MILESTONE WAY PRECINCT MILESTONE WAY,CAVERSHAM,READING,RG4 8XW,2,2026-08-10,Reading,15,5,10,-0.9619385,51.482968
 1245387,Turkish Halal Food Centre,Retailers - other,133-135 OXFORD ROAD,,READING,,0,2026-07-22,Reading,20,20,20,-0.9819054,51.4548093
 1750469,Turkish Halal Food Centre,Retailers - supermarkets/hypermarkets,70 WHITLEY STREET,,READING,RG2 0EQ,1,2026-08-18,Reading,10,10,20,-0.9654963,51.4451065
-1990128,Turkish Mangal,Takeaway/sandwich shop,TURKISH MANGAL 228 NORTHUMBERLAND AVENUE,,READING,RG2 7QA,AwaitingInspection,,Reading,,,,-0.96277,51.4329621
+1990128,Turkish Mangal,Takeaway/sandwich shop,TURKISH MANGAL 228 NORTHUMBERLAND AVENUE,,READING,RG2 7QA,2,2026-06-28,Reading,10,15,10,-0.96277,51.4329621
 1109764,Tutu's Ethiopian Table at Palmer Park Lodge,Restaurant/Cafe/Canteen,THE LODGE PALMER PARK WOKINGHAM ROAD,,READING,RG6 1LF,5,2025-05-16,Reading,5,0,5,-0.9407679,51.4519359
 1630565,Tutu's Food Truck,Mobile caterer,,,,,5,2025-05-16,Reading,0,0,5,,
 280254,Twins News Mart,Retailers - other,65 WATLINGTON STREET,,READING,,5,2025-11-10,Reading,0,0,0,-0.96085,51.45258
@@ -1402,9 +1412,14 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280143,Tylers Rest,Pub/bar/nightclub,TYLERS REST PH 149 NORCOT ROAD,TILEHURST,READING,RG30 6BS,4,2026-04-20,Reading,5,10,5,-1.0255129,51.4595547
 1753665,Tyndale Baptist Church,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
 280467,Tyndale Baptist Church,Other catering premises,TYNDALE BAPTIST CHURCH 2-4 CRESSINGHAM ROAD,,READING,RG2 7JE,5,2024-10-28,Reading,0,0,5,-0.9489699,51.4338102
+2006772,U Sports at Geoffrey Field Junior School,Other catering premises,,,Reading,RG2 8RH,AwaitingInspection,,Reading,,,,,
+2006771,U Sports at Meadow Park Academy,Other catering premises,MEADOW PARK ACADEMY NORCOT ROAD,TILEHURST,READING,RG30 6BS,AwaitingInspection,,Reading,,,,,
+2006773,U Sports at New Town Primary School,Other catering premises,School Terrace,,Reading Berkshire,RG1 3LS,AwaitingInspection,,Reading,,,,,
+2006770,U Sports at Thameside Primary School,Other catering premises,THAMESIDE PRIMARY SCHOOL HARLEY ROAD,CAVERSHAM,READING,RG4 8DB,AwaitingInspection,,Reading,,,,,
 1948413,UK Halal Meat,Retailers - other,79 WOKINGHAM ROAD,,READING,RG6 1LH,2,2026-02-09,Reading,5,15,5,-0.9370568,51.4487641
 1976750,uKids @ Meadow Park,Hospitals/Childcare/Caring Premises,MEADOW PARK ACADEMY NORCOT ROAD,TILEHURST,READING,RG30 6BS,5,2026-07-10,Reading,0,0,5,,
 1948358,uKids @ St Martins RG6,Hospitals/Childcare/Caring Premises,ST MARTINS CATHOLIC PRIMARY SCHOOL PENDENNIS AVENUE,CAVERSHAM,READING,RG4 6SS,4,2025-12-05,Reading,5,10,5,,
+2010400,uKids Childcare,Other catering premises,NEW TOWN PRIMARY SCHOOL SCHOOL TERRACE,,READING,RG1 3LS,AwaitingInspection,,Reading,,,,,
 280602,Ukrainian Social Club,Pub/bar/nightclub,21 SIDMOUTH STREET,,READING,RG1 4QZ,5,2018-03-12,Reading,0,0,0,-0.963387,51.4520751
 1750463,Unicorn Magic Brew,Mobile caterer,Kiosk 18,,Reading,RG1 2AQ,4,2026-06-23,Reading,5,5,10,,
 1423351,Unleashed Performance,Retailers - other,UNIT 1 MARCUS CLOSE,TILEHURST,READING,RG30 4EA,Exempt,,Reading,,,,-1.0146235,51.4532994
@@ -1412,7 +1427,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280652,Up The Junction,Pub/bar/nightclub,231 LONDON ROAD,,READING,,5,2025-08-26,Reading,0,0,0,,
 280598,Upper Crust at Reading Rail Station Concourse,Restaurant/Cafe/Canteen,1 BRUNEL ARCADE STATION APPROACH,,READING,RG1 1LT,5,2025-07-31,Reading,0,0,0,-0.9716782,51.4584124
 1776115,Urban Fun,Restaurant/Cafe/Canteen,49-50 BROAD STREET MALL BROAD STREET,,READING,RG1 7QE,5,2025-01-30,Reading,5,0,5,-0.975875,51.4548107
-1998916,Uttami JI & Sons,Retailers - other,14 Tessa Road,,Reading Berkshire,RG1 8HE,AwaitingInspection,,Reading,,,,,
+1998916,Uttam JI & Sons Limited,Retailers - other,UTTAM JI AND SONS LTD UNIT 14 TESSA ROAD,,READING,RG1 8HH,AwaitingInspection,,Reading,,,,-0.9839305,51.4627939
 434518,V & M Convenience Store,Retailers - other,373 OXFORD ROAD,,READING,RG30 1HA,5,2025-07-12,Reading,5,5,5,-0.9948248,51.4563596
 1990745,VeganBox,Manufacturers/packers,,,,,AwaitingInspection,,Reading,,,,,
 1948491,Vegivores,Restaurant/Cafe/Canteen,41A CHURCH STREET,CAVERSHAM,READING,RG4 8BA,5,2026-03-23,Reading,5,5,5,-0.9744288,51.467342
@@ -1428,7 +1443,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1648337,Vintage Days Out Ltd,Mobile caterer,MILL GREEN BOATHOUSE MILL GREEN,CAVERSHAM,READING,RG4 8EX,5,2024-07-15,Reading,5,5,5,-0.9591642,51.4631158
 280356,Voco Reading Hotel,Hotel/bed & breakfast/guest house,SELECT CAR LEASING STADIUM SHOOTERS WAY,,READING,RG2 0FL,5,2026-04-25,Reading,5,5,5,-0.9834031,51.4224615
 351906,Voyage Care,Hospitals/Childcare/Caring Premises,1 UPPINGHAM GARDENS,CAVERSHAM,READING,RG4 6SP,5,2023-09-13,Reading,5,5,5,-0.9528748,51.4838315
-351905,Voyage Care,Hospitals/Childcare/Caring Premises,26 ST BARNABAS ROAD,EMMER GREEN,READING,RG4 8RA,5,2025-03-26,Reading,0,5,0,-0.9739232,51.4841167
+351905,Voyage Care,Hospitals/Childcare/Caring Premises,26 ST BARNABAS ROAD,EMMER GREEN,READING,RG4 8RA,5,2026-09-21,Reading,0,5,0,-0.9739232,51.4841167
 1671808,Voyage Care,Hospitals/Childcare/Caring Premises,29 BRIANTS AVENUE,CAVERSHAM,READING,RG4 5AY,5,2025-10-23,Reading,0,0,0,-0.9591863,51.466578
 351903,Voyage Care,Hospitals/Childcare/Caring Premises,2A & 2B MAYFAIR,,READING,RG30 4QY,4,2025-01-12,Reading,0,5,10,,
 351904,Voyage Care,Hospitals/Childcare/Caring Premises,30 RICHMOND ROAD,CAVERSHAM,READING,RG4 7PR,5,2025-10-23,Reading,0,0,0,-0.988163,51.4771098
@@ -1481,7 +1496,7 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 280196,Y M C A,Hotel/bed & breakfast/guest house,READING YMCA 34 PARKSIDE ROAD,,READING,RG30 2DD,5,2026-09-29,Reading,0,5,0,-1.0001217,51.4510725
 1014336,Yaadgaar Sweets and Bakers,Restaurant/Cafe/Canteen,465 OXFORD ROAD,,READING,RG30 1HF,4,2026-07-09,Reading,5,10,5,-0.9986192,51.4572642
 1948438,Yan's Kitchen,Other catering premises,,,,,AwaitingInspection,,Reading,,,,,
-1990747,Yardmanstyle Takeaway,Takeaway/sandwich shop,230B SHINFIELD ROAD,,READING,RG2 8EX,AwaitingInspection,,Reading,,,,-0.946288,51.4285235
+1990747,Yardmanstyle Takeaway,Takeaway/sandwich shop,230B SHINFIELD ROAD,,READING,RG2 8EX,2,2026-09-18,Reading,15,10,10,-0.946288,51.4285235
 1528286,Yattendon Honey,Other catering premises,,,,,5,2025-09-09,Reading,0,0,0,,
 1389129,YayLo,Other catering premises,26 CROSS STREET,,READING,RG1 1SN,4,2025-05-23,Reading,5,10,5,-0.9715891,51.45596
 280544,Yew Tree Lodge Care UK Mental Health,Hospitals/Childcare/Caring Premises,YEW TREE LODGE 17-19 REDLANDS ROAD,,READING,RG1 5HP,5,2025-01-08,Reading,0,0,0,-0.9553508,51.4441538
@@ -1489,13 +1504,13 @@ FHRSID,BusinessName,BusinessType,AddressLine1,AddressLine2,AddressLine3,PostCode
 1667780,Yo Momoz,Takeaway/sandwich shop,83-85 WOKINGHAM ROAD,,READING,RG6 1LH,2,2026-07-15,Reading,10,15,10,-0.9369282,51.448727
 1948336,Yo Sushi,Takeaway/sandwich shop,TESCO SUPERSTORE PORTMAN ROAD,,READING,RG30 1AW,5,2025-08-21,Reading,0,5,0,-0.9990075,51.4585984
 1513493,Yo! To Go Reading,Takeaway/sandwich shop,TESCO EXTRA NAPIER ROAD,,READING,RG1 8DF,5,2025-12-18,Reading,0,5,5,-0.9560383,51.4600576
-1714717,Yo! To Go!,Takeaway/sandwich shop,TESCO SUPERSTORE PORTMAN ROAD,,READING,RG30 1AW,4,2025-07-13,Reading,5,5,10,-0.9990075,51.4585984
+1714717,Yo! To Go!,Takeaway/sandwich shop,TESCO SUPERSTORE PORTMAN ROAD,,READING,RG30 1AW,5,2025-08-21,Reading,0,5,0,-0.9990075,51.4585984
 1376555,Yogoo! Natural Frozen Yogurt,Takeaway/sandwich shop,R1 THE RIVERSIDE THE ORACLE BRIDGE STREET,,READING,RG1 2AG,5,2025-04-09,Reading,,,,-0.9712956,51.4536465
 1528287,You Me Sushi,Restaurant/Cafe/Canteen,150 Friar Street,,Reading Berkshire,RG1 1HE,4,2025-12-05,Reading,5,5,10,-0.9718361,51.4565832
 465840,Your Local Convenience Store,Retailers - other,151 CAVERSHAM ROAD,,READING,RG1 8AU,3,2026-04-21,Reading,10,10,10,-0.9760813,51.4629683
 595869,Yuvraj's Mini Market,Retailers - other,9 MANCHESTER ROAD,,READING,RG1 3QD,4,2024-06-08,Reading,0,10,5,-0.9438067,51.4549485
 1948334,YY Restaurant,Restaurant/Cafe/Canteen,77-79 KINGS ROAD,,READING,RG1 3DD,3,2025-10-08,Reading,10,5,10,-0.9640253,51.4550301
-939162,Zabka Reading,Retailers - other,541 Oxford Road,Reading,,RG30 1HJ,4,2025-05-17,Reading,5,10,5,-1.0011991,51.4577628
+939162,Zabka Reading,Retailers - other,541 OXFORD ROAD,,READING,RG30 1HJ,1,2026-09-16,Reading,15,15,20,-1.0011991,51.4577628
 1559157,Zaika The Paan Shop,Takeaway/sandwich shop,431 OXFORD ROAD,,READING,RG30 1HD,4,2026-08-05,Reading,5,10,5,-0.9971013,51.4569096
 280375,Zam Zam Halal Superstore,Retailers - other,162-164 OXFORD ROAD,,READING,RG1 7PJ,4,2025-08-05,Reading,5,10,5,-0.9883468,51.4557553
 1617694,Zambrero,Restaurant/Cafe/Canteen,31 QUEEN VICTORIA STREET,,READING,RG1 1SY,5,2024-10-25,Reading,0,5,5,-0.9722672,51.4558851
