@@ -5,8 +5,9 @@ its still inflated(1349) - check in excel (double-counting in loop caused total_
 Update README as required - IN PROGRESS
 Read about the data before moving forward - take note of what to do and what more to get DONE
 push data to postgre/superbase or any other database system. DONE
--- join ratings table with score_descriptors table
-after that , do similar in python to create the seperste csvs that get saved in s3 or supabaese. the csv links will thn be used to create charts in powerbi and/or qgis
+set ratings to have the descriptor value DONE
+answer all questions in supabase sql editor
+answer in vscode with python and make it into a task to create the seperste csvs that get saved in s3 or supabaese. the csv links will thn be used to create charts in powerbi and/or qgis
 
 
 Query from there using python in vscode
@@ -17,16 +18,25 @@ the row number changes, some data removed or added. - how to handle this - appen
 create/build ERD
 
 QUESTIONS
-- Which bussiness type has the highest ratings in all category (overall)
-- Which bussiness type has the highest ratings in each category
-- Which bussiness type has the lowest ratings in all category (overall)
-- Which bussiness type has the lowest ratings in each category
-- Bussiness that are exemoted fromratings (the rating value is 'exempt')
-- Overall / average ratings in all category in Reading
-- create a map showing the locations for the first four questions above
-- How to handle actual null ratings
-- Bussiness and bussinestypes awaiting inspection and Exempt
-- exclude Exempt and AwaitingInspection from other analysis
-- since some business names appears more than once because they ahve multiple locations, when the name apears in top or lowest, chcek if other branches have similar or opposite ratings
+1. Data quality (do first)
+    How many businesses are Exempt, Awaiting Inspection, or truly NULL, and what share of the dataset is that?
+    Which business types have the most Exempt or Awaiting Inspection businesses?
+    After excluding Exempt, Awaiting Inspection and nulls, how many businesses remain for analysis?
+2. Baseline
+    What is the overall distribution of ratings across Reading (count and % for each rating from 0 to 5)?
+    What is the average overall rating, and the average hygiene, structural and confidence in management penalty scores (lower is better for these three)?
+3. Best and worst business types
+    Which business types have the highest proportion of “Very good” ratings and the highest average overall score (minimum 20 businesses)?
+    Which business types have the highest proportion rated below “Generally satisfactory” (2 or less), and the lowest average overall score (minimum 20 businesses)?
+    Which business types have the best (lowest) average hygiene, structural and confidence in management scores?
+    Which business types have the worst (highest) average hygiene, structural and confidence in management scores?
+4. Chains and multiple branches
+    Which business names appear more than once (e.g. 3 or more branches)?
+    For those, how consistent are the ratings across branches (min, max, average, spread)?
+    When a business name appears in the top or bottom performers, do its other branches have similar or opposite ratings?
+5. Geography
+    Where are the businesses rated 2 or below?
+    Which areas or postcodes have the lowest and highest average scores?
+    Where are the Exempt and Awaiting Inspection businesses?
   
 
